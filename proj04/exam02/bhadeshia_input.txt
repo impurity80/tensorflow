@@ -1,0 +1,3187 @@
+The mechanism of the bainite transformation in steels is reviewed, beginning with a summary
+of the early research and finishing with an assessment of the transformation in the context of
+the other reactions which occur as austenite is cooled to temperatures where it is no longer the
+stable phase. The review includes a detailed account of the microstructure, chemistry, and crystallography
+of bainitic ferrite and of the variety of carbide precipitation reactions associated with
+the bainite transformation. This is followed by an assessment of the thermodynamic and kinetic
+characteristics of the reaction and by a consideration of the reverse transformation from bainite
+to austenite. It is argued that there are useful mechanistic distinctions to be made between the
+coherent growth of ferrite initially supersaturated with carbon (bainite), coherent growth of
+Widmanst~itten ferrite under paraequilibrium conditions, and incoherent growth of ferrite under
+local equilibrium or paraequilibrium conditions. The nature of the so-called acicular ferrite is
+also discussed.
+
+DURING the late 1920's, in the course of some pioneering
+studies on the isothermal transformation of austenite
+at temperatures above that at which martensite first
+forms, but below that at which fine pearlite is found,
+Davenport and Bain tll discovered a new microstructure
+consisting of an "acicular, dark etching aggregate," which
+was quite unlike the pearlite or martensite observed in
+the same steel. They originally called this microstructure
+"martensite-troostite," since they believed that it "forms
+much in the manner of martensite but is subsequently
+more or less tempered and succeeds in precipitating
+carbon."
+The structure was found to etch more rapidly than
+martensite but less so than troostite (fine pearlite). The
+appearance of "low-range" martensite-troostite (formed
+at temperatures just above Ms) was found to be somewhat
+different from the "high-range" martensite-troostite
+formed at higher temperatures. The microstructure exhibited
+unusual and promising properties; it was found
+to be "tougher for the same hardness than tempered martensite
+"I21 and was the cause of much excitement at the
+newly established United States Steel Corporation Laboratory
+in New Jersey. In 1934, the research staff of the
+laboratory named the microstructure "Bainite" in honor
+of their colleague E.C. Bain, who had inspired the studies,
+and presented him with the first ever photomicrograph
+of bainite, taken at a magnification of 1000
+times. [3.41
+The name "bainite" did not immediately catch on. It
+H.K.D.H. BHADESHIA, Lecturer, is with the Department of
+Materials Science and Metallurgy, University of Cambridge, Pembroke
+Street, Cambridge CB2 3QZ, United Kingdom. J.W. CHRISTIAN,
+Emeritus Professor of Physical Metallurgy, is with the Department of
+Metallurgy and Science of Materials, Oxford University, Parks Road,
+Oxford OX1 3PH, United Kingdom.
+This paper is based on a presentation made in the symposium
+"International Conference on Bainite" presented at the 1988 World
+Materials Congress in Chicago, IL, on September 26 and 27, 1988,
+under the auspices of the ASM INTERNATIONAL Phase Transformations
+Committee and the TMS Ferrous Metallurgy Committee.
+was used rather modestly even by Bain and his coworkers.
+In a paper on the nomenclature of transformation
+products in steels, Vilella et al. tSj mentioned an
+"unnamed, dark etching, acicular aggregate somewhat
+similar to martensite" when referring to bainite. Hoyt,
+in his discussion to this paper, appealed to the authors
+to name the structure, since it had been first produced
+and observed in their laboratory. Davenport t61 ambiguously
+referred to the structure, sometimes calling it "a
+rapid etching acicular structure," at other times calling
+it bainite. In 1940, Greninger and Troiano used the term
+"Austempering Structures" instead of bainite, tTl The 1942
+edition of the book The Structure of Steel, and its reprinted
+version of 1947, by Gregory and Simmons, contains
+no mention of bainite, t8j
+The high-range and low-range variants of bainite were
+later called "upper bainite" and "lower bainite," respectively,
+I9j and this terminology remains useful to this day.
+Smith and Mehl II~ also used the term "feathery bainite"
+for upper bainite, which forms largely, if not exclusively,
+at the austenite grain boundaries in the form of
+bundles of plates and only at high reaction temperatures,
+but this description has not found frequent use. In fact,
+both upper and lower bainite ferrite consist of aggregates
+of plates, and such aggregates were later designated as
+sheaves of bainite.[~l]
+B. The Early Research
+Early research into the nature of bainite continued to
+emphasize its similarity with martensite. Bainite was believed
+to form with a supersaturation of carbon, f12-16J
+Vilella et al. cSI postulated that the transformation involves
+the abrupt formation of flat plates of supersaturated
+ferrite along certain crystallographic planes of
+the austenite grain; the ferrite then was supposed to reject
+carbon at a rate depending on temperature, leading
+to the formation of carbide particles (as opposed to the
+lamellar carbides found in pearlite). The transformation
+was believed to be, in essence, martensitic, "even though
+the temperature be such as to limit the actual life of the
+quasi-martensite to millionths of a second." Bain 121 reiterated
+this view in his classic book Alloying Elements
+in Steel. Isothermal transformation studies were, by then,
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--767
+becoming very popular and led to a steady accumulation
+of data on the bainite reaction (still variously referred to
+as the "intermediate transformation," "dark etching
+acicular constituent," "acicular ferrite," etc.).
+For alloys of appropriate composition, the upper ranges
+of bainite formation were found to overlap with those of
+pearlite, preceded in some cases by proeutectoid ferrite.
+Thus, the nomenclature became further confused since
+the ferrite which formed first was variously described as
+massive ferrite, grain-boundary ferrite, acicular ferrite,
+Widmans~tten ferrite, etc. On a later view, some of these
+microconstituents are formed by a "displacive "tlT~ or
+"military "t18~ transformation of the iron atoms (together
+with any substitutional solute atoms) from austenite to
+ferrite, and are thus similar to carbon-free bainitic ferrite,
+whereas others form by a "reconstructive" or "civilian"
+transformation, which is a quite different kinetic
+process.
+1. Crystallography
+By measuring the crystallographic orientation of austenite
+using twin vestiges and light microscopy, Greninger
+and Troiano tTl were able to show that the habit plane of
+martensite in steels is irrational; these results were consistent
+with earlier work on nonferrous martensites and
+disproved the contemporary view that martensite in steels
+forms on the octahedral planes of austenite. They also
+found that with one exception, the habit plane of bainite
+is irrational and different from that of martensite in the
+same steel. The habit plane indices also tended to vary
+with the transformation temperature and the average carbon
+concentration of the steel. The results seemed to imply
+some fundamental difference between bainite and martensite.
+Because the habit plane of bainite seemed to approach
+the austenite octahedral plane (then thought to be
+the habit plane of Widmanst~itten ferrite) at high temperatures
+but the cementite habit at low temperatures,
+and because it always differed from that of martensite,
+Greninger and Troiano proposed that from the very beginning,
+bainite forms from austenite as an aggregate of
+ferrite and cementite. Thus, a competition between the
+ferrite and cementite of the aggregate was suggested as
+the reason for the observed variation of bainite habit, the
+ferrite controlling at high temperatures and the cementite
+at low temperatures. The crystallographic results were
+later confirmed by Smith and Mehl t~~ using an indirect
+and less accurate method. These authors also showed that
+the orientation relationship between bainitic ferrite and
+austenite does not change very rapidly with transformation
+temperature and carbon concentration, and is
+within a few degrees of the orientations found for martensite
+or Widmanst~itten ferrite, but differs considerably
+from that of pearlitic ferrite/austenite. Since the orientation
+relationship of bainite with austenite was not found
+to change, Smith and Mehl considered Greninger and
+Troiano's explanation for habit plane variation to be inadequate,
+implying that the habit plane cannot vary independently
+of orientation relationship.
+2. The incomplete-reaction phenomenon
+It was known as long ago as 1939 that in certain alloy
+steels (such as Fe-1.1Cr-1.1Mo-0.33C wt pct) "in which
+the pearlite change is very slow," the degree of transformation
+to bainite decreases (ultimately to zero) with
+increasing isothermal transformation temperature, r~9~
+Similarly, the bainite transformation in an Fe-2.98Cr-
+0.2Mn-0.38C wt pct alloy was found to begin rapidly
+but cease shortly afterward, with the maximum volume
+fraction of bainite obtained increasing with decreasing
+transformation temperature.t2~ At no temperature investigated
+did the complete transformation of austenite occur
+solely by decomposition to bainite. The residual austenite
+remaining untransformed after the cessation of the
+bainite reaction reacted by another mechanism (pearlite)
+only after a further long delay. Other experiments on
+several chromium-containing steels (0.08-1.28C wt pct)
+revealed that the total dilatometric expansion accompanying
+the initial rapid formation of bainite increased continuously
+with decreasing reaction temperature. ~2u The
+curve of total expansion vs temperature was found to show
+an increasing slope as a function of carbon concentration.
+The odd feature of such results was that the bainite
+transformation did not seem to reach completion on isothermal
+heat treatment, even though full transformation
+to pearlite could be achieved at a higher transformation
+temperature. Often, the transformation of austenite at
+lower temperatures occurred in two stages,t2~ beginning
+with the bainite reaction, which stopped prematurely,
+followed by the formation of pearlite at a slower rate.
+As will become apparent later, it is significant that the
+two reactions may only be separated by a long delay in
+well-alloyed steels; in plain carbon steels, "the second
+reaction sets in within a few seconds after the beginning
+of the bainite reaction."t2~
+3. Carbon redistribution
+X-ray and other experiments indicated that the formation
+of bainite enriches the residual austenite in carbon.
+Klier and Lyman t2~ took this to imply that the
+austenite, prior to its transformation to bainite, becomes
+compositionally unstable and separates into carbon-rich
+and carbon-depleted volumes (a process like this would
+require uphill diffusion). The low-carbon regions were
+postulated to transform into supersaturated bainite of
+the same composition by a "martensite-like" lattice rearrangement,
+which then rapidly decomposed further
+by precipitating iron carbides. A similar suggestion had
+been made earlier by Kurdjumov f22~ with respect to
+Widmanstfitten ferrite: "regions of low carbon concentration
+in the y crystal result from diffusion within the
+y phase, and these regions can at this time transform into
+theaphase..."
+4. Thermodynamics
+In a far-reaching paper, Zener ~23~ attempted to give a
+rational thermodynamic description of the phase transformations
+that occur in steels. He assumed that bainite
+growth is diffusionless, any carbon supersaturation in
+bainitic ferrite being relieved subsequent to growth by
+partitioning into the residual austenite. The atomic
+mechanism of bainite growth was not discussed in detail,
+but he believed that unlike martensite, there is no strain
+energy associated with the growth of bainite. Thus, bainite
+should form by diffusionless transformation at a temperature
+just below To, where the austenite and ferrite of
+the same composition have identical free energy. However,
+To is frequently used in martensite theory for the
+768--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+temperature at which austenite and martensite (i.e.,
+supersaturated tetragonal "ferrite") have the same free
+energy; for clarity, we follow Christian and Edmonds t241
+and call this temperature To,.. The Bain strain applied to
+a random interstitial solution of carbon in austenite
+automatically produces the ordered tetragonal form of
+ferrite if the carbon atoms are trapped in their original
+sites, but Zener also supposed that the tetragonal form
+may be regarded as a result of an ordering of the interstitial
+atoms into one set of sites of the cubic structure.
+He derived an equation for the critical temperature, T,.,
+at which the cubic and tetragonal forms of ferrite have
+the same free energy; Tc rises with interstitial solute content
+and, thus, intersects the Ms temperature and also has
+a joint intersection with the To and To,. temperatures.
+Clearly, To,. lies below To at low-carbon contents and
+above To at high-carbon contents. According to one
+interpretation, t25] martensite formed above room temperature
+is cubic at carbon contents below the intersection
+of Ms and Tc (above 2.5 at. pct carbon in plain ironcarbon
+alloys) and tetragonal above it. As Zener pointed
+out, martensite cannot form until the driving force obtained
+by supercooling below the To or Tom temperature
+is large enough to provide the necessary strain energy.
+It is usually assumed that bainite forming first as fully
+supersaturated ferrite nevertheless has a cubic structure,
+but it would seem more logical to assume a tetragonal
+structure, unless the temperature of formation is above T,..
+The Zener model failed to provide an explanation of
+why the strain energy should exist for martensite and not
+for bainite. On the other hand, it explained the data
+showing that the degree of transformation to bainite increases
+with supercooling from zero at an upper limit,
+which is generally known as the Bs temperature. The carbon
+that partitions into the austenite after the formation
+of bainite changes its composition, until it eventually becomes
+thermodynamically impossible for the austenite to
+transform without a composition change. For a given alloy
+composition, a higher undercooling below To would allow
+more bainite to form before transformation without a
+composition change becomes impossible. Consistent with
+experimental data, the model also requires the bainite
+"C" curve of the time-temperature-transformation (TTT)
+diagram to tend asymptotically to infinite time at a temperature
+corresponding to To or To,., whichever is the
+higher, since the transformation of austenite without a
+composition change cannot occur above this limit.
+The initial plates of bainite, unlike those of many martensites,
+often grow to a limited size less than that of the
+parent austenite grain. Zener postulated that this is due
+to the formation of a layer of cementite around the plate,
+which stifles any subsequent growth.
+5. Paraequilibrium
+By 1947, it was evident that the cementite, which grows
+during the bainite transformation in alloy steels, differed
+from that associated with pearlite. The pearlitic cementite
+was always found to contain a higher than average
+concentration of some substitutional alloying elements,
+whereas bainitic cementite seemed to have about the same
+overall substitutional alloy content as the parent material.
+Hultgren t261 has cited several references which report
+magnetic, chemical, and X-ray data on extracted
+carbides which confirm this difference between the two
+kinds of carbides.
+Hultgren was, at the time, proposing a model for the
+role of substitutional alloying elements in steels; at high
+temperatures where diffusion rates are reasonable, these
+elements can redistribute during transformation if equilibrium
+demands such redistribution. In these circumstances,
+the transformation was said to occur under
+"orthoequilibrium" conditions. This compares with
+"paraequilibrium" transformation, in which the substitutional
+alloying elements are unable to partition during
+the time scale of the experiment, although carbon, which
+is a fast diffusing interstitial element, redistributes between
+the phases and reaches equilibrium subject to this
+constraint.
+The mechanism of pearlite formation was itself not
+clear in those days, but the transformation was believed
+to be initiated by the nucleation of cementite. It was suggested
+that bainite was instead initiated by the nucleation
+of ferrite. (93~ Hultgren put these ideas together and
+postulated that the transformation at high temperatures
+(upper bainite) begins with the nucleation of ferrite of
+paraequilibrium carbon concentration, so that the residual
+austenite is enriched with respect to carbon. This
+bainitic ferrite, unlike the ferrite associated with pearlite,
+was believed to have a Kurdjumov-Sachs (KS) or
+Nishiyama-Wasserman (NW) orientation relationship with
+the parent austenite in which it grows; this was considered
+to explain the difference in ferrite morphology observed
+experimentally in pearlite and bainite. Bainitic
+ferrite was always found to consist of individual plates
+or sheaves, whereas the ferrite in pearlite apparently
+formed alternating plates of a regularly spaced two-phase
+lamellar aggregate. The enrichment of austenite with respect
+to carbon should then eventually lead to the paraequilibrium
+precipitation of cementite from austenite in
+a region adjacent to the bainitic ferrite. At the time,
+pearlitic cementite was thought to bear a rational orientation
+relation to the austenite grain into which the
+pearlite colony grows, and Hultgren proposed, without
+any evidence, that bainitic cementite should be randomly
+oriented to the austenite in which it precipitated. This
+process of ferrite and subsequent cementite precipitation
+then repeated, giving rise to the sheaf of bainite. Therefore,
+Hultgren considered upper bainite to be a kind of
+a reconstructive transformation, in essence similar to
+pearlite but growing under paraequilibrium conditions and
+different in the orientation relations of the various phases
+with respect to the parent austenite.
+No explanation was offered for the occurrence of paraequilibrium
+with bainite, nor for the existence of the various
+orientation relationships. He admitted the possibility
+that bainite formed at lower temperatures (later known
+as lower bainite) "forms directly," implying that the
+bainitic ferrite formed with a supersaturation of carbon,
+although the mechanism was not discussed.
+The model of pearlite formation involving the repeated
+formation of ferrite and cementite was abandoned
+when Hillert f28J demonstrated that a pearlite colony really
+consists of two interwoven crystals, one of ferrite and
+the other cementite. Hillert [28,29] also pointed out an important
+distinction between pearlite and upper bainite; in
+the former case, the ferrite and cementite phases grow
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--769
+cooperatively, whereas in the latter case, the plates of
+bainitic ferrite form first, with the precipitation of cementite
+being a subsequent reaction.
+6. Kinetics
+The experiments of Wiester, I3~ Hannemann et al.,[31]
+and Forster and Scheil [32'33~ indicated that martensite can
+grow very rapidly in steels, with a plate taking a few
+microseconds to grow right across an austenite grain.
+Bunshah and Mehl [341 later demonstrated that the rate of
+growth of martensite can be as high as 1 km s -t, i.e.,
+one-third the velocity of sound. This gave rise to the
+incorrect impression that martensitic transformation does
+not involve a "nucleation and growth process;" i.e., it
+is not a first-order transformation in the thermodynamic
+sense.* For example, Smith and Mehl [~~ wondered
+*The Ehrenfest t35~ classification of phase transformations is based
+on the successive differentiation of a thermodynamic potential (e.g.,
+Gibbs free energy) with respect to an external variable, such as temperature
+or pressure. The order of the transformation is given by the
+lowest derivative to exhibit a discontinuity. In a first-order transformation,
+the partial derivative of the Gibbs free energy with respect to
+temperature is discontinuous at the transition temperature. Thus, there
+is a latent heat of transformation evolved at a sharp transformation
+interface which separates the coexisting parent and product phases.
+The phase change occurs at a well-defined interface, the interface separating
+perfect forms of the parent and product phases. First-order
+transformations involve the nucleation and growth of a product phase
+from the parent phase. In a second-order transformation, the parent
+and product phases do not coexist. Martensite in steels can coexist
+with austenite and is then separated from the latter by a well-defined
+interface. It is, like bainite, a first-order transformation involving the
+nucleation and growth of individual plates.
+whether bainitic structures form by a process of nucleation
+and growth or whether the plates spring fully formed
+from the matrix lattice "as they do in the transformation
+to martensite." A nucleation and growth model was favored,
+since the sizes of the reacted regions apparently
+increased with time at the reaction temperature. This was
+consistent with the work of Wever and his coworkers,
+[12,13,36] who found that in the bainite transformation
+range, the austenite decomposes relatively slowly.
+Furthermore, the progress of the bainite transformation
+could be represented by means of a C curve on a TTT
+diagram, [11 with a well-defined incubation period before
+the beginning of isothermal transformation. Martensitic
+transformation, on the other hand, could not be suppressed
+by the fastest available quench rates; I37J it seemed
+to form athermally and was represented on the TTT diagram
+by a family of lines parallel to the time axis. [381
+The bainite reaction was found to follow C-curve kinetics
+even below the Ms temperature.J39]
+It is in this context that Ko and Cottrell [4~ attempted
+to investigate whether bainite is ~a nucleation and growth
+reaction, or like martensite, forms in a fraction of a second."
+They also wanted to establish whether the transformation
+leads to surface relief effects similar to those
+associated with martensitic transformations. Ko and
+Cottrell were able to demonstrate, through hot-stage light
+microscopy, that bainite grows relatively slowly and that
+its formation causes the shape of the transformed region
+to change, the shape change being characterized qualitatively
+as an invariant-plane strain. They also noted that
+unlike pearlite, which is not hindered by austenite grain
+boundaries, t27[ bainite growth terminated at austenite twin
+or grain boundaries. Therefore, the transformation was
+similar to martensite, and Ko and Cottrell attempted to
+identify any clear differences that may exist between
+martensite and bainite.
+It was known already that martensite first forms at a
+large undercooling below the To temperature, at which
+ferrite and austenite of identical composition have equal
+free energy. [23'411 Since diffusionless transformation is
+thermodynamically feasible below To, the extra undercooling
+was believed necessary to account for the strain
+and, to a lesser extent, the interface energy associated
+with the formation of the martensite plate. Bainite, which
+can form at more elevated temperatures than martensite,
+should, therefore, require a modified mechanism of
+transformation, a mechanism which has to be consistent
+with the lower driving force that is available for the
+transformation of austenite at higher temperatures. Ko
+and Cottrell postulated that a "coherent nucleus" can develop
+either into martensite or into bainite, depending
+on the driving force available for transformation, the nucleus
+developing into martensite below Ms. At the higher
+temperatures where bainite occurs, "coherent growth"
+can only "take place when the strain due to the density
+change is relieved." They suggested that this could happen
+if the amount of carbon dissolved in bainite is reduced;
+this would also lead to a free energy reduction.
+The removal of carbon from the ferrite could occur by
+diffusion from bainite or by precipitation within bainite,
+or by a combination of these processes, depending on
+the transformation temperature. It is not entirely clear
+from their description whether they envisaged initially
+diffusionless growth followed by carbon diffusion to
+provide the driving force for further growth, or whether
+the diffusion and interface migration are coupled so that
+precipitation within the ferrite (for lower bainite) or carbon
+rejection to the austenite (for upper bainite) takes
+place at the moving interface. The former mechanism
+seems illogical, since the extra driving force is only
+available after a stage of initial growth to martensite,
+which should not be possible (according to their growth
+condition) above Ms. Provided there is some way of circumventing
+the difficulty of forming the initial coherent
+nucleus (of whatever composition), the second type
+of growth model would allow bainite to form above Ms
+and, indeed, above To. In some later work, Ko [42] distinguished
+between incoherent ferrite and "acicular
+ferrite," which he proposed should be regarded as
+carbon-free bainitic ferrite.
+Kriesement and Wever [43[ pointed out that the appearance
+of bainite changes continuously between upper and
+lower bainite and postulated that the growth of bainite
+involves the repeated and alternating nucleation and
+growth of lamellae of cementite and ferrite from austenite;
+unlike pearlite, the growth direction of the macroscopic
+plate of bainite was supposed to be normal to the
+plane of the lamellae. Although this particular mechanism
+has since been shown to be incorrect, they identified
+clearly the condition necessary for cementite
+precipitation to occur from residual austenite during the
+bainite transformation. Cementite (0) precipitates from
+austenite if the carbon concentration of the latter exceeds
+that given by the extrapolated 7/(7 + 0) phase boundary.
+Although many of the characteristics of bainite,
+770 -- VOLUME 21 A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+especially the morphology and the shape deformation,
+had been found to be similar to those of martensite, a
+different microstructural approach was developed by
+Aaronson. t44j He used the Dub6 morphological classification
+t45,46] for all nonpearlitic forms of ferrite formed
+from austenite, and he attributed the morphological variations
+to the dependence of the growth kinetics of an
+interface and to the nature of the site from which a precipitate
+crystal develops. In particular, plate morphologies
+were regarded as the result of the formation of
+immobile, partly coherent planar interfaces, which can
+grow normal to themselves only by the lateral migration
+of "ledges." In a later discussion of bainite, taTJ he developed
+the "microstructural" definition, in which bainite
+is regarded simply as a nonlamellar two-phase
+aggregate of ferrite and carbides in which the phases form
+consecutively (as distinct from pearlite, where they form
+cooPeratively ). Aaronson stated that according to this
+definition, the upper limiting temperature of bainite formarion
+should be that of the eutectoidal reaction (Ael),
+and he denied that the kinetic Bs temperature has any
+fundamental significance. In those alloy systems where
+there seems clear evidence for a separate C curve for
+bainite, the bainitic "bay" and the apparent upper limit
+of bainite formation (Bs) were attributed to a special effect
+of certain alloying elements on the growth kinetics.
+Aaronson equally dismissed the observation of surface
+relief as a basis for classifying the various forms of ferrite.
+C. Summary of the Early Research
+By the beginning of the 1960's, bainite was generally
+regarded as a transformation product differing significantly
+from various forms of proeutectoid ferrite, as well
+as from pearlite and martensite. The results of the early
+research can be summarized as follows.
+Bainite can be obtained by isothermal transformation
+at all temperatures where the formation of pearlite and
+proeutectoid ferrite is sluggish and also at temperatures
+below the martensite-start temperature.
+Upper bainite, when it forms at relatively high temperatures,
+was found to consist of sheaves of femte plates
+with cementite particles trapped between the plates,
+whereas lower bainite contained fine cementite particles
+within the bainitic ferrite platelets themselves.
+Observations using light microscopy indicated that the
+lengthening of bainite sheaves occurred at a rate much
+slower than that at which martensite plates were known
+to grow. Bainite sheaves were found to have irrational
+habit planes, the indices of which differed from those of
+martensite found in the same alloy. The orientation relationship
+between bainitic ferrite and austenite was, on
+the other hand, similar to that between martensite and
+austenite. Bainite plates were never found to cross austenite
+grain boundaries, and the formation o.f bainite was,
+like martensite, observed to cause the shape of the parent
+crystal to change. This shape deformation amounted, in
+present day terminology, to an invariant-plane strain (IPS).
+In steels where transformation to bainite could be carried
+out without interference from other reactions, experiments
+demonstrated that the degree of transformation
+to bainite decreases (ultimately to zero), and the time
+taken to initiate the reaction increases rapidly with increasing
+isothermal transformation temperature. This led
+to the definition of a "bainitic-start" temperature, Bs, above
+which there is no reaction; this temperature was always
+found to lie well within the (metastable) a + 3' phase
+field. Other reactions could follow the bainitic transformation,
+but in all cases, the rapid formation of bainite
+ceased prematurely before the austenite was fully
+transformed.
+The prevailing, albeit rather ill-defined, concept of the
+bainite reaction as involving a martensitic-type interface
+combined with diffusion-controlled growth had already
+led to the suggestion of bainitic reactions in other (nonferrous)
+alloy systems. In particular, the observation of
+surface relief effects apparently combined with compositional
+changes in the decomposition of some/3-phase
+copper-zinc alloys had been used in a pioneering paper
+by Garwood t481 to identify this decomposition as bainitic,
+and the difficulties in accounting for such a reaction
+in purely substitutional alloys had been emphasized, r49J
+This remains an interesting and controversial aspect of
+transformation theory / 5~
+In summary, the early emphasis on the similarities between
+bainitic and martensitic transformations still dominated
+the literature in the 1960's, and the contrasting
+views of Aaronson and his co-workers were only beginning
+to emerge. These views, however, later led to considerable
+controversy, which has continued until the
+present time. Some of the dispute has been only semantic
+and, thus, of marginal importance; into this category,
+we would put Ko's proposal that the term "bainite" should
+be extended to include Widmanst~itten ferrite forming with
+a shape change (thus satisfying what Aaronson has termed
+the shear definition of bainite, but contravening the reaction
+kinetics definition). The various disputes do,
+however, also concern mechanisms and, thus, are important.
+In what follows, we shall be arguing that there
+are useful mechanistic distinctions to be made between
+the coherent growth of ferrite initially supersaturated with
+carbon (bainite), the coherent growth of Widmanst~itten
+ferrite under paraequilibrium conditions, and the incoherent
+growth of ferrite under local equilibrium conditions.
+II. BAINITIC FERRITE
+In this section, we propose to discuss in detail the ferritic
+component of bainite, focusing on its morphology,
+crystallography, constitution, and kinetics. The treatment
+of the carbides associated with the bainite transformation
+is discussed in Section III.
+A. Sheaves of Bainite
+1. Morphology
+Both upper and lower bainite consist of aggregates of
+platelets or laths of ferrite separated by regions of residual
+phases. These consist of untransformed austenite or
+of phases such as martensite or cementite, which form
+subsequent to the growth of bainitic ferrite. The aggregates
+of bainitic platelets are called sheaves, [11] and the
+individual platelets are sometimes called subunits. The
+platelets within a given sheaf may not be completely isolated
+from one another by the residual phases, in which
+case, low-misorientation grain boundaries are formed
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--771
+along the surfaces where the platelets come in contact.
+This is because within a sheaf, the subunits all tend to
+be in a common crystallographic orientation. The cluster
+of platelets that form a sheaf is sometimes called a
+"packet" of bainite because, on the scale of light microscopy,
+fully transformed grains of austenite appear to
+be divided into discrete regions (i.e., packets), within
+which the traces of the habit planes of bainite are parallel.
+The term has its origins in the description of lath
+martensite in low-alloy, low-carbon steels, where laths
+of martensite are also found to be in parallel formations
+(e.g., References 52 and 53). The similarity in both
+morphology and crystallography between lath martensite
+and upper bainite has been noted in many investigations,
+but it also appears that there may be differences in the
+detailed crystallography (see Section II-D).
+A possible explanation for the fact that som e of the
+austenite adjacent to the bainitic ferrite remains untransformed
+at the reaction temperature is that its carbon concentration
+increases as a consequence of transformation
+to such an extent that the formation of bainite eventually
+becomes thermodynamically impossible. If the starting
+carbon concentration of the steel is large, the formation
+of bainite ceases at an earlier stage of the reaction, and
+the volume fraction of the residual phases is then expected
+to be large.
+Two-surface analysis and other observations on specimens
+partly transformed to bainite show that the overall
+morphology of a sheaf on a macroscopic scale is in three
+dimensions, like that of a wedge-shaped plate, the thicker
+end of which originates at an austenite grain boundary.[
+54-59] The microscopic subunits, within a sheaf themselves,
+have a lenticular plate or lath morphology which
+is most prominent near the edge or tip of a sheaf where
+impingement effects are minimal; for the same reason,
+these features are easily observed in partially transformed
+specimens. The width of a subunit near the tip
+of a sheaf is approximately the same as that near the
+original nucleation site of the sheaf (i.e., an austenite
+grain surface), implying that the subunits grow to a limiting
+size. In the development of a sheaf, new subunits
+are most frequently nucleated near the tips of subunits,
+which are already present, rather than on their sides. The
+overall morphology of a sheaf is illustrated schematically
+in Figure 1.
+When the subunits are in the form of laths, each lath
+has its longest dimension along the close-packed direction
+of the ferrite, which is most nearly parallel to a closepacked
+direction of the parent austenite. [6~ It is not
+clear why the subunits sometimes grow in the form of
+laths,/54,6~ whereas on other occasions form as
+plates. [54,56,57,59,621 A qualitative impression from the literature
+is that the plate morphology tends to form at lower
+transformation temperatures.
+In some cases, lower bainite sheaves seem to develop
+with a macroscopically planar interface on just one side
+of each sheaf; [57'63] the same effect has been found in lath
+martensite in an iron-nickel-manganese alloy.[64] In other
+cases, the thickening of sheaves has been observed to
+occur from both sides of the habit plane. [65] The aspect
+ratio (thickness/length) of such sheaves is known to decrease
+with transformation temperature but is not sensitive
+to the substitutional alloy content, at least for the
+~MATIC ILLUSTRATION OF A SHEAF OF BAINITE
+SUB-UNIT ~ x , , ~ ~
+SUB-UNI~
+Fig. 1--Schematic illustration of the morphology of a sheaf.
+relatively low-alloy steels that have been studied to
+date. [65'66'671 The sheaf width decreases with transformation
+temperature, [68,69] although the subunit width is
+not influenced by either the austenite grain size or the
+bainite sheaf size. [69,7~ Similar effects are found with
+martensite, [71,72] but their detailed explanation is not yet
+available.
+2. Stereology
+The "grain size" of bainite usually has to be characterized
+by measurements made on random planar sections
+of the microstructure, as observed using a
+transmission electron microscope using replica or thin
+foil specimens. In such sections, the ferrite plates appear
+approximately parallel-sided, and the thickness is then
+measured in a direction normal to the long edges of the
+plates. The average value of the measurements is taken
+to represent a "grain size," which is really an apparent
+plate thickness. The procedure is useful in characterizing
+any qualitative trends in microstructure but obviously ignores
+stereological considerations. For example, if a
+platelet is represented as a disc of radius, r, and thickness,
+t, with r >> t, then the mean intercept length is
+given by/$3 = 2t, and the mean intercept area is given
+by .4 = 2rt. [731 Note that the intercepts are, in this
+case, random with respect to the orientation of the
+microstructure.
+The specific manner in which the grain size of an anisotropic
+structure is defined is also application-dependent.
+For example, in considering strengthening due to lath
+boundaries, it is appropriate to examine the dimensions
+of the available slip planes within individual platelets.
+I74,751 If it is assumed that there is a random distribution
+of slip plane orientations with respect to the lath
+axes, the grain-boundary strengthening effect (tTg) is found
+to be of the form trg = kgM -~, where kg is a constant
+and M is the mean value of the larger diameter of a slip
+plane. Note that this behavior differs from the classical
+Hall-Petch relation, where it is the inverse square root
+of grain size which matters.
+There is some uncertainty about the influence of carbon
+on the grain size of bainite; Pickering [76] found the
+772--VOLUME2 1A,A PRIL1 990 METALLURGICATLR ANSACTIONAS
+size to be independent of carbon concentration for bainite
+produced during continuous cooling transformation,
+although Davenport t6~ states (without citing evidence)
+that it is a well-known effect that the size decreases with
+carbon concentration. In fact, the apparent thickness of
+bainite is, in general, found to increase with transformation
+temperature from about 0.2 to 2/zm when the
+transformation temperature changes from 425 ~ to
+570 ~ respectively, for an Fe-0.22C wt pct commercial
+steel, and similar data have been reported for other
+steels. [77-8~ Whether this reflects a change in the plate
+aspect ratio is not clear.
+Bainitic ferrite formed at high temperatures often contains
+subgrain boundaries, the subgrain size becoming
+finer for bainite formed at lower temperatures. 1761 The
+boundaries are probably a consequence of the recovery
+(polygonization) of the dislocation structure introduced
+during transformation at high homologous temperatures.
+B. Dislocation Density
+It is commonly observed in experiments using transmission
+electron microscopy (TEM) that bainite has a
+"high" dislocation density, although there are few quantitative
+data to support this. Smith t811 has shown, using
+TEM, that an Fe-0.07C-0.23Ti wt pct alloy, the estimated
+Bs temperature of which is about 650 ~ t821 has
+a mean dislocation density of 0.5 • 10 TM m -2 when isothermally
+transformed to allotriomorphic ferrite at 800 ~
+whereas when the same alloy is transformed to bainite
+at 650 ~ the dislocation density obtained is 4 •
+1014 m -2. It is particularly significant that the dislocation
+density in bainite is found to be higher than that in allotriomorphic
+ferrite, which has formed at a similar transformation
+temperature. ~63~
+The relatively high dislocation density associated with
+bainitic ferrite is often attributed to the fact that it forms
+by a shear mechanism, on the grounds that this necessitates
+the deformation of the parent lattice by dislocations
+which are then somehow incorporated into the
+product phase. This reasoning is, however, incorrect, since
+the dislocations that are responsible for the transformation
+and for the lattice-invariant deformation are located
+in the interface between the parent and product lattices.
+Indeed, there are many such transformations where few
+dislocations are to be found in the product phase (e.g.,
+thermoelastic martensites).
+If the shape deformation accompanying displacive
+transformation is accommodated at least partially by plastic
+relaxation, then the resulting dislocation debris introduced
+into the austenite can be inherited by any bainite
+that forms subsequently. Plastic relaxation may also follow
+in the bainite itself, since the yield stresses of both
+ferrite and austenite decrease with increasing transformation
+temperature. Plastic relaxation of the shape change
+has been observed experimentally; when prepolished
+samples of austenite are transformed to bainite, the adjacent
+austenite surface does not remain planar but, instead,
+exhibits curvature which is characteristic of slip
+deformation, t571 Observations of the transformation using
+hot-stage TEM have revealed that the growth of bainite
+is accompanied by the formation of dislocations in and
+around the bainite, [831 and direct observations of the
+austenite/bainitic ferrite interface also provide evidence
+of plastic accommodation in both phasesJ s41 Sandvik and
+Nevalainen t8~ have demonstrated that the austenite adjacent
+to the bainitic ferrite undergoes twinning deformation
+and that the density of twins increases as the
+transformation temperature decreases. The plastic accommodation
+is also believed to be responsible for the
+lower residual stresses in samples which are bainitic,
+compared with those transformed to martensite, f85j
+The dislocation density of bainitic ferrite seems to increase
+as the transformation temperature is reduced, 186j
+although there are few quantitative data to this effect.
+X-ray line profile measurements show that the lattice strain
+(due to the presence of dislocations) increases as the
+transformation temperature decreases, t87! These can be
+used to estimate the dislocation density, Pal; for the lowalloy
+steel used by Fondekar et al. ,[87] isothermal transformation
+to bainite at 300 ~ 360 ~ and 400 ~ gave
+dislocation densities of 6.3 • 1015, 4.7 • 1015, and 4.1 •
+10 is m -2, respectively.
+C. Chemical Composition
+1. Substitutional alloying elements
+It is generally accepted that there is no long-range redistribution
+of substitutional alloying elements during the
+growth of bainitic ferrite. See, for example, Aaronson
+and Domian, t88j where some of the electron-microprobe
+analysis results refer to bainitic ferrite. The bulk substitutional
+alloy content of the bainitic ferrite was found to
+be identical to that of the parent austenite. A variety of
+other results using the atom-probe technique on steels
+containing silicon, nickel, manganese, chromium, or
+molybdenum confirm that there is no bulk partitioning
+of substitutional alloying elements during the formation
+of bainitic ferrite. [89-93] One set of atom-probe experiments
+I94] apparently indicated the opposite conclusion,
+namely, that there is a redistribution of chromium and
+molybdenum during the formation of bainite. These resuits
+are, however, doubtful, since they indicate a depletion
+in the interface and an enrichment in the bulk
+phases on both sides of the transformation interface. Indeed,
+the measured concentrations in both phases sometimes
+exceeded the average concentration in the alloy
+used.
+The behavior of the atoms on substitutional sites during
+transformation is critical in specifying the mechanism
+of the change. The iron and substitutional atoms
+(X) do not diffuse during displacive transformation, so
+that the ratio of Fe/X atoms is expected to be constant
+throughout a transforming crystal, even on the finest
+conceivable scale.
+During reconstructive transformation, the atoms transfer
+across the interface in an uncoordinated manner which
+accomplishes the required lattice change and simultaneously
+ensures a minimization of the strain energy. This
+requires the thermally activated migration (in the interface
+region at least) of all the atoms, irrespective of
+whether the transformation occurs in a pure metal or in
+an alloy. There will normally be a volume change associated
+with the stress-free change of structure, and, at
+sufficiently high temperatures, this may be compensated
+by a flux of vacancies (and an opposite flux of atoms)
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--773
+between the growing precipitate and the dislocations, grain
+boundaries, and (ultimately) the free surface of the parent
+phase. At temperatures where the rate of diffusion
+in the parent phase is inadequate for such an adjustment,
+reconstructive growth with minimum strain energy will
+still be possible if the precipitate has a lenticular (tapered
+plate) shape, and the reconstruction takes place in such
+a way that the volume change is simply an expansion or
+contraction normal to the plane of the lens. This can be
+achieved by atomic migration entirely within, or in the
+limit around, the particle. Reconstructive growth is,
+however, scarcely feasible unless all atoms have some
+mobility in the incoherent interface, roughly equivalent
+during the time of growth to a diffusion distance of the
+order of magnitude of the dimensions of the particle. This
+necessary mass flow has been described as "reconstructive
+diffusion," and the two classes of transformation have
+been called "diffusional" and "displacive ''t951 in place of
+the older divisions mentioned above, into "reconstructive"
+and "displacive" or "civilian" and "military." Bainite
+was one of the first transformations for which this wider
+classification was needed to replace the original division
+into "nucleation and growth" and "martensitic" transformations,
+08,961 and we avoid using the term "diffusional
+transformation" here, since it refers only to the
+motion of the Fe + X atoms. If diffusional is used as
+one main category, there is the apparent paradox that a
+displacive transformation, in which there is segregation
+of carbon during growth, has to be described as "nondiffusional"
+even though the growth rate might be controlled
+by the diffusion rate of carbon!
+In an alloy in which there is some atomic mobility
+within the parent phase, the reconstruction provides an
+opportunity for the solvent and solute atoms to redistribute
+between the two phases. However, in a system
+such as Fe-C-X, the diffusion rate of carbon in the austenite
+may be as much as 10 7 to 10 9 times greater than
+that of a substitutional atom in the temperature range of
+interest, t971 and these very different rates of atomic migration
+mean that true equilibrium segregation with regard
+to all components may not be produced at a migrating
+interface. It is, however, possible to envisage growth
+under diffusion control with local equilibrium at the
+interface in the sense that the compositions of the two
+phases are joined by a tie line of the equilibrium diagram,
+even though this tie line does not pass through the
+point representing the initial (or average) composition of
+the alloy. When these kinetic restrictions apply, the two
+phases may differ either significantly or negligibly in
+substitutional solute content. A qualitative analysis for
+ternary steels was first developed by Hillert, t981 and a
+simplified quantitative theory in which diffusion cross
+terms are neglected was developed by Kirkaldy, I991 Purdy
+et al.,[~~17a6n d Coates; [~~ the effect of the cross terms
+was later examined by Coates. r1~176 The simple theory
+shows that for the diffusion-controlled growth of ferrite
+from austenite in an Fe-C-X alloy with initial composition
+near the y/a + y phase boundary (i.e., with a
+small supersaturation), the tie line selected will have the
+carbon composition of the austenite at the interface almost
+equal to that of the bulk alloy so that the activity
+of carbon is nearly constant in the austenite, thus reducing
+the driving force for carbon diffusion almost to zero.
+There will be a concentration gradient of the substitutional
+solute ahead of the interface, resulting in appreciable
+partition, and the relatively slow growth rate will
+be determined by the diffusion rate of this solute. For
+large supersaturations, the tie line will have the Fe + X
+composition of the ferrite virtually identical with that of
+the bulk austenite and partitioning of the substitutional
+solute will be extremely small, with a relatively fast
+growth rate. These are referred to as the partitioning local
+equilibrium (P-LE) and negligible partitioning local
+equilibrium (NP-LE) growth modes, t~~176176176a nd, for a
+high ratio of the diffusivities, the theory predicts an abrupt
+transition from one to the other as the supersaturation
+increases.
+In the NP-LE mode, the concentration of X
+is uniform, except for a small "spike" in the parent
+phase adjacent to the interface. As the ratio of
+interstitial:substitutional diffusion rates increases, the
+width of this spike decreases, and when it becomes of
+the order of atomic dimensions, the concept of local
+equilibrium at the interface is invalid and has to be
+replaced (assuming the growth is, nevertheless, diffusioncontrolled)
+by that of paraequilibrium. [98,1~176 In conditions
+of paraequilibrium, there is no redistribution of
+Fe + X atoms between the phases, the Fe/X ratio remaining
+uniform right up to the interface. One interpretation
+of the paraequilibrium limit is that reconstructive
+transformation occurs with all displacements of the Fe +
+X atoms taking place in the incoherent interface; another
+interpretation might be that only displacive transformation
+can occur. In either case, to quote from Coates, "the
+slow diffuser and the solvent participate only in the change
+of crystal structure." Paraequilibrium implies that the
+growth rate is controlled by the interstitial diffusivity,
+the interface compositions now being given by the tie
+lines of the pseudoequilibrium between the two phases
+under the constraint of a constant Fe-X ratio.
+In conclusion, the experimental evidence that bainitic
+ferrite has the same bulk substitutional content as its parent
+austenite is consistent with both reconstructive and
+displacive mechanisms for the change in crystal structure.
+However, reconstructive transformation with local
+equilibrium (or, indeed, any state between local and
+paraequilibrium) requires some perturbation of the
+substitutional solute content in the proximity of the
+interface. Very detailed atom-probe experiments, which
+have a chemical and spatial resolution on an atomic
+scale, ~89-93] have all failed to show any evidence of such
+redistribution of alloying elements (Cr, Mn, Mo, Ni, and
+Si) at the interface between bainitic ferrite and austenite.
+These experiments were all based on steels where other
+reactions do not interfere with the formation of bainitic
+ferrite. Measurements of the growth rates of grainboundary
+allotriomorphs of ferrite from austenite in alloy
+steels under conditions where bulk segregation is not observed
+(e.g., References 108 and 109) indicate calculated
+thicknesses of the spike of much less than 0.1 nm,
+and although these results are complicated by the effect
+of grain-boundary diffusion, they are in general agreement
+with the concept that the lattice diffusion rate is
+inadequate to sustain local equilibrium at the growing
+interface. Only at temperatures above 600 ~ has segregation
+of some (though by no means all) substitutional
+774--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+elements been obtained in grain-boundary allotriomorphs.
+t88] Allotriomorphs are agreed to form by reconstructive
+mechanisms, but the absence of bulk segregation
+at moderately high transformation temperatures reinforces
+the belief, derived from the observed shape change,
+that bainitic ferrite forms at lower temperatures by a displacive
+rather than a reconstructive mechanism.
+2. Interstitial alloying elements
+A particular experimental difficulty with the bainite
+transformation is that in the case of upper bainite, at least,
+it is almost impossible to say anything about the initial
+carbon content of the ferrite because the time taken for
+any carbon to diffuse into austenite can be very small.
+For the moment, we refer to the interstitial content of
+bainitic ferrite after transformation. As will be seen later
+(Section IV), the concentration during transformation is
+likely to be different.
+Internal friction experiments indicate that the amount
+of carbon which associates with dislocations in bainitic
+fen-ite increases as the transformation temperature decreases,
+but it is independent of the alloy carbon concentration,
+at least in the range of 0.1 to 0.4 wt pct C. t86]
+This is consistent with the observation that the dislocation
+density of bainitic ferrite increases with a decrease
+in transformation temperature. The insensitivity to the
+alloy carbon concentration is because most of the carbon
+either ends up in the residual austenite or precipitates as
+carbides in the ferrite. The results also show that at some
+stage during the evolution of bainitic ferrite, it must have
+contained a higher than equilibrium concentration of
+carbon.
+These observations have been confirmed directly by
+using microanalysis on an imaging atom probe, which
+has demonstrated quantitatively that the posttransformation
+carbon content of bainitic ferrite tends to
+be significantly higher than equilibrium. [89-93]
+D. Crystallography
+The properties of bainitic steels are believed to depend
+on the crystallographic texture that develops as a consequence
+of transformation from austenite. As an example,
+the ease with which slip deformation is transmitted
+across adjacent platelets of bainitic ferrite must be related
+to their relative orientation in space. Bainite grows
+in the form of clusters of platelets called sheaves, with
+little misorientation between the platelets within any given
+sheaf. Where they touch, adjacent platelets are separated
+by low-misorientation grain boundaries.
+The relative orientation of the bainitic ferrite and its
+parent austenite is always close to the classic KS ~11~
+and NW tm] relationships. These two rational relations
+differ only by a relative rotation of 5.25 deg about the
+normal to the parallel close-packed planes of the two
+structures, and the exact relative orientation in martensites
+is found to be intermediate and irrational, as is predicted
+by the crystallographic theory. High accuracy is
+required to compare theory with experiment, since the
+predicted orientation relation is insensitive to input parameters
+such as lattice spacings or lattice-invariant deformation.
+In the case of bainite, as in that of lath
+martensite, such precision is difficult to achieve, partly
+because of the experimental difficulties in retaining austenite
+and partly because of the high dislocation densities.
+Despite these difficulties, it is significant that the experimental
+data always lie well within the "Bain region"
+which encompasses the KS and NW relationships. The
+Bain strain ]112] is the pure part of the lattice deformation
+which, for displacive transformations in steels, converts
+austenite into ferrite or martensite. During the Bain strain,
+no plane or direction is rotated by more than 1 1 deg ]H31
+so that any pair of corresponding planes or directions
+may be made parallel by utilizing a lattice deformation
+in which the Bain strain is combined with a rotation of
+not more than 1 1 deg. This defines the Bain region, and,
+for a displacive transformation, it is expected that the
+experimentally observed orientation relation will lie within
+this region. This need not be the case for reconstructive
+transformations, and allotriomorphic ferrite in steels is
+known to grow into austenite grains with which it has
+an orientation which is random or outside the Bain region3114]
+Hence, it is very significant that bainitic ferrite
+always exhibits an orientation which is close to KS or
+NW and well within the Bain region.
+Pickering I86~ has suggested that the crystallography of
+bainite can be explained if the individual platelets or laths
+adopt different variants of the NW or KS orientations,
+such that the ferrite orientations within a sheaf can be
+generated simply by rotation about the normal to a specific
+close-packed plane of the austenite. In this way,
+the bainite laths may nucleate side-by-side in rapid
+succession with the transformation strains determining
+the variant. This early work was based on measurements
+only of ferrite-ferrite orientation relations, since the
+specimens may have contained only thin films of austenite
+which are observable only with high-resolution
+microscopy. However, it must be admitted that results
+from more recent work, in which measurements of the
+direct austenite-ferrite relations have been made, are still
+rather contradictory. There is general agreement that adjacent
+platelets or laths in bainite all have a {1 10}~ plane
+parallel (or almost parallel) to the same close-packed
+{lll}v and that the macroscopic habit plane is near to
+{1 1 1}v in upper bainite but is irrational in lower bainite.
+Most investigators, t59,115[ find all the platelets within a
+sheath or "subpacket" to have a common orientation, but
+Sarikaya et al. ILl61 claim that while some groups of adjacent
+laths have a common orientation, others have either
+different variants of the orientation relationship or, in
+lower bainite, are twin-related. Similar discrepancies exist
+in crystallographic measurements on lath martensite,
+where three types of orientation relation between adjacent
+laths of a packet are reported by some workers[
+116.117] and only one common orientation by others.tr4, H8]
+When there is a common orientation, the platelets within
+a sheaf have small misorientations; there is also an appreciable
+spread of orientation within a single platelet
+because of its high dislocation density. Direct crystallographic
+analysis [1~51 indicates that all platelets within a
+subpacket have an irrational orientation relation with the
+austenite, which is rather closer to NW than to KS.
+Moreover, the shape deformations of all the platelets are
+identical in agreement with earlier work. I57'59] One further
+crystallographic observation made by Sandvik t115] is
+of considerable interest. He found that twins formed in
+the austenite adjacent to the ferrite and that the ferrite
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--775
+laths were able to grow through the twins, producing a
+reorientation of the lattice and also displacing the direction
+of the twin boundaries in the manner expected for
+a displacive (shear) transformation.
+Similar results for the relative orientations of adjacent
+platelets were obtained in a careful examination of lath
+martensite by Sandvik and Wayman, using an iron-nickelmanganese
+alloy which contained appreciable retained
+austenite./64j They found that although the laths had slight
+relative misorientations of up to 2 deg, they all exhibited
+the same variant of the parent-matrix orientation relation,
+and thick layers of austenite between adjacent laths
+indicated that the laths did not form as a result of selfaccommodation
+of their shape strains. Thus, this form
+of lath martensite seems to be very similar, in substructure
+at least, to the bainite investigated by Sandvik.
+One possible reason for a common orientation might
+be that the individual platelets of a sheaf are not separate
+crystals but are continuously connected portions of the
+growth front of one original nucleus. At the relatively
+high temperatures at which bainite (and lath martensite)
+form, the shape change may cause plastic deformation
+of the structure leading to copious generation of dislocations,
+which stops the forward growth of a platelet after
+it has attained a certain size. "Nucleation" of a new platelet
+would then simply be resumed growth caused by breakaway
+of a part of the original interface in a region near,
+but not at, the tip. In bainite, the growth would resume
+only after some carbon had been rejected from the ferrite
+into the austenite and would be most likely where pinning
+by dislocation debris is minimal and where the driving
+force is highest due to rapid dispersion of the carbon
+rejected to the austenite.
+An alternative model is that the individual platelets are
+completely separated from each other by thin layers of
+austenite, so that each is separately nucleated but always
+in the same orientation. In general, the stress field at the
+tip will favor renucleation in the same variant, whereas
+that at the side of the platelet will favor another variant.
+The nucleation of other variants is, of course, essential
+if self-accommodating groups are to form and, thus, must
+be suppressed for some reason, perhaps because adjacent
+sheaves are formed together in a self-accommodating
+fashion. At present, there is insufficient evidence to determine
+whether either of these speculative descriptions
+is valid, although Srinivasan and Wayman, t56,57~
+Sandvik, tllSl and Sandvik and Wayman t641 all claimed that
+the individual laths in their specimens were isolated from
+each other by retained austenite.
+As already mentioned, early conclusions about mutual
+accommodation may have applied to sheaves rather than
+to platelets in each sheaf. Sandvik measured the misorientations
+between neighboring subpackets (presumably
+neighboring sheaves) in one "packet" of his bainitic
+alloy and found that these correspond to different variants
+of his irrational orientation relation in which the same
+austenite {1 1 1} plane is parallel to a ferrite {1 10} plane.
+The six variants which satisfy this condition lead to four
+different relative orientations, one of which is only 3 deg
+from the original orientation, and the others are, respectively,
+8, 1 1, and 14 deg away from a twin orientation.
+Sandvik comments that the first misorientation is difficult
+to detect and that it is difficult to distinguish the
+remaining three from each other. He also comments that
+only the variant with orientation relation 14 deg from a
+twin relationship gives efficient self-accommodation, and
+this was observed fairly infrequently. Thus, adjacent
+subpackets are attributed to random association, although
+it is not clear why they should then all have the
+same pair of parallel close-packed planes. Sandvik and
+Nevalainen I8~ have also suggested that adjacent sheaves
+of bainitic ferrite are approximately twin related and
+correspond to variants of a near NW orientation.
+1. Autocatalytic nucleation
+Autocatalytic nucleation is a term commonly associated
+with martensitic transformations, t119,12~ The nucleation
+of martensite in steels is believed to begin at
+structural imperfections in the parent phase, such as arrays
+of dislocations. These are the preexisting defects
+which, on cooling below the Ms temperature, dissociate
+into suitable partial dislocations in a way which leads to
+the nucleation of martensite. [121,122,123] The defects are not
+all identical (they vary in potency) and are stimulated to
+grow into plates of martensite at different degrees of
+undercooling below the Ms temperature. This is the cause
+of the classical behavior observed for athermal martensitic
+reactions in which the volume fraction of martensite
+varies only with the undercooling below Ms.
+Detailed analysis reveals that the initial number density
+of preexisting defects typically found in austenite is
+not large enough to explain the kinetics of martensitic
+transformation. The extra defects necessary to account
+for the faster than expected transformation rates are attributed
+to autocatalysis: when plates of martensite form,
+the 3, induce new embryos which are then available for
+further transformation. Three mechanisms have been
+proposed for autocatalysis, t124~ In stress-assisted nucleation,
+the activation of less potent defects at a given temperature
+is induced by the internally generated elastic
+stresses arising as a consequence of the shape change
+due to transformation. In strain-induced autocatalysis,
+the creation of new and more potent nucleating defects
+is induced by some plastic accommodation in the parent
+phase. Finally, "interfacial autocatalysis" refers to the
+nucleation of new martensitic units from the existing
+martensite/austenite interfaces. Autocatalysis is responsible
+for the "bursts" of transformation that occur in certain
+martensitic steels, from which the initial formation
+of a plate stimulates a disproportionately large degree of
+further transformation, sometimes causing the emission
+of audible clicks.
+All of these effects arise as a consequence of the severe
+elastic and plastic disturbance of the austenite in the
+immediate vicinity of a plate of martensite. It is the shape
+change due to the martensitic transformation that is the
+cause of the disturbance. On this basis, autocatalysis
+should also feature prominently in bainitic transformations
+which are accompanied by similar shape deformations.
+There is, however, a significant difference in
+that bainite formation occurs at relatively low driving
+forces, where defects induced by transformation do not
+seem to play as crucial a role in stimulating further nucleation.
+The initial nucleation event is almost always
+confined to the austenite grain surfaces, which presumably
+contain the most potent defects for nucleation.
+776--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+Intragranular nucleation of bainite can essentially be ignored
+except when nonmetallic particles may act as nucleation
+surfaces. The initial formation of a platelet of
+bainite (or of lath martensite) must lead to appreciable
+elastic and plastic strains, but this does not seem to cause
+the nucleation of other platelets in different orientations,
+as happens with plate martensite, and "bursts" of transformation
+are not observed. In the case of bainite, this
+may be because the driving force is only adequate for
+the formation of a carbon-free nucleus, and this may be
+impossible to form in the carbon-enriched region around
+an existing platelet. Whatever the reason, it seems that
+strain-induced autocatalysis does not play an important
+role in bainite formation. As already discussed, there is
+some evidence for stress-assisted autocatalysis if it is indeed
+true that adjacent sheaves form in such a way as
+to help accommodate each other's shape deformation.
+The concept of autocatalytic nucleation may be related
+to that of sympathetic nucleation, defined by Aaronson
+and Wells t111 as the nucleation of a precipitate crystal at
+the interphase boundary of a previously formed crystal
+of the same phase when the matrix and precipitate differ
+in composition. Although in discussing sympathetic nucleation,
+volume strain energy "can be effectively ruled
+out" according to Aaronson, t44~ it seems clear that many
+examples of this phenomenon would be alternatively interpreted
+as autocatalytic nucleation by other workers.
+2. Phenomenological theory
+We have seen that the bainite transformation exhibits
+crystallographic features and surface relief effects similar
+to those associated with martensitic reactions. It is
+then natural to assume that the phenomenological theory
+of martensite crystallography t125,1261 should be applicable
+to bainite. The crystallographic theory predicts a unique
+relationship between the habit plane, shape deformation,
+orientation relationship, lattice types, and lattice-invariant
+deformation. It can only be tested satisfactorily when these
+variables are not determined in isolation. Much of the
+early data (reviewed by Bowles and Kennon E1271) are incomplete
+in this sense but consistent with the theory. All
+of the early measurements of habit planes must now be
+interpreted to refer to the habit planes of bainite sheaves,
+rather than of the individual subunits.
+Finally, we note that a considerable difficulty in applying
+the theory to bainite is the lack of accurate structural
+information relating to the transformation which is
+needed as input data. Thus, if bainite grows with a full
+supersaturation but the carbon escapes in a very short
+time, the measured lattice parameters of upper bainitic
+ferrite will not relate to the initially formed structure,
+which may even have been tetragonal. A similar difficulty
+exists for lower bainite if appreciable carbide precipitation
+has taken place before any measurements are
+possible.
+Srinivasan and Wayman [56,571 reported the first detailed
+results on the crystallography of sheaves of lower bainite
+in an Fe-I.llC-7.9Cr wt pct alloy (Bs ~ 300 ~ Ms
+-34 ~ in which large quantities of austenite remained
+untransformed at ambient temperature. Each sheaf was
+found to have just one planar face when examined using
+light microscopy, and this was taken to be the habit plane.
+The (irrational) habit plane indices were found to exhibit
+a small degree of scatter beyond experimental error, the
+mean indices being close to (254)~ relative to the orientation
+variant in which (111)~ is almost parallel to (011L
+and [101], is at a small angle to [ l l l L ; this is henceforth
+called the standard variant. The martensite habit plane
+in the same alloy is close to (494)y, and the difference
+in the two habits and in the exact orientation relations
+led Srinivasan and Wayman to the conclusion that the
+mode of displacive transformation is different in bainite
+and martensite. Their measured habit plane is only about
+6 deg from that found for a different alloy by Sandvik,
+who pointed out, however, that his result applied to an
+individual platelet whereas that of Srinivasan and Wayman
+was for the average "habit" of a subpacket or sheath.
+The shear component of the shape deformation, as averaged
+over the entire sheaf, was measured to be -0.128,
+the magnitude of the total shape strain being -0.129.
+This is consistent with the earlier data of Tsuya t1281 and
+Speich. |65~ The actual shape strain for an individual subunit
+must of course be larger, and was estimated using crystallographic
+theory as being 0.23; this compares with the
+0.28, 0.25, and 0.22 estimated for different alloys by
+Ohmori, 1581 Bhadeshia, t1291 and Sandvik, [1151 respectively.
+Srinivasan and Wayman t56,57j showed that their data on
+lower bainite are indeed consistent with solutions based
+on the phenomenological theory of martensite. It was
+found that the sheaf habit plane and orientation relationship
+could be predicted for an undistorted habit plane if
+it is assumed that the lattice-invariant shear is irrational
+in both plane and direction. On the other hand, if the
+habit plane is permitted to undergo a small isotropic contraction,
+then the lattice-invariant shear (for the standard
+variant) consists of a double shear on the planes (1T1)v
+and (101)v in the common direction [i01]v (these correspond
+to (101)~, (112)~, and [111]~, respectively). This
+double system is equivalent to a single shear on an irrational
+plane and is not associated with any of the difficulties
+encountered in theories which postulate more
+general combinations of lattice-invariant shears. The
+component planes on which the interface dislocations
+would glide are those usually considered as candidates
+for single lattice-invariant shears in the martensite theory.
+However, at the time of the Srinivasan and Wayman
+work, it was not fully appreciated that the so-called habit
+plane of a sheaf (which they measured) may differ from
+that of a platelet within a sheaf (which Sandvik measured),
+and it is not yet clear whether the phenomenological
+theory of martensite should be applied to the sheaf
+or the platelet. It may be more important to minimize
+long-range distortions over the whole sheaf, in which
+case the invariant-plane condition would apply to the apparent
+habit plane of the sheaf, but in cases where there
+are reasonably thick layers of austenite between the
+platelets, it seems more logical to apply the theory to the
+individual platelet.
+Hoekstra and his co-workers t~3~ recently examined
+the crystallography of bainite in an Fe-0.35C-0.25Si-
+0.6Mn-4.5Ni-l.3Cr wt pct alloy isothermally transformed
+at 365 ~ They used hot-stage light microscopy
+and a technique for determining the orientation of the
+austenite using twin vestiges, so that the resulting habit
+plane data they obtained are assumed to refer to the sheaf
+habit plane, which was found to be irrational with mean
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--777
+indices {569}~. The observed small degree of scatter was
+attributed to the development of internal stresses during
+transformation. The ferrite orientation was measured using
+electron diffraction. The habit plane indices with respect
+to the ferrite were determined using the criterion that a
+unique orientation relationship and habit plane should
+emerge from an analysis of three sets of experimental
+data. The habit with respect to ferrite was found to be
+close to {2 7 10}~, and an analysis of the results led them
+to conclude that the crystallography of bainite in their
+samples was inconsistent with the phenomenological
+theory of martensite. The analysis (Figure 5 of Reference
+132) does not, however, seem correct because the
+angles made by the habit plane pole to the {111}~ [[ {011}~
+planes and to the (101)~ II (111)~ directions are not in
+fact the same for the three sets of data analyzed.
+3. The crystallography of a lath of bainite
+It has already been noted that the subunits of a bainite
+sheaf may adopt the morphology of a plate or of a lath,
+where the latter is idealized as a parallelepiped of dimensions
+a, b, and c, with a > b > c. There is a general
+tendency for the lath shape to be adopted when the transformation
+occurs at relatively high temperatures. The
+crystallography of such laths has been characterized in
+detail and to a high level of accuracy by Davenport tr~
+as follows:
+growth direction
+habit plane (area -- ab)
+face of area = ac
+orientation relationship (KS)
+[i01] r 11 [iilL
+(232)~ -1[ (i54L
+(101) v
+[i01]r [I [iiu~
+(lll)v ]l (011),
+where the crystallography is for consistency stated in
+the standard variant described earlier. Hence, the major
+growth direction of each lath corresponds to the nearly
+parallel close-packed directions from the a and y lattices.
+This is consistent with less direct trace analysis
+results which indicated that the major growth direction
+of the laths lies along (1T1)a. [61'63'1331 The habit plane indices
+are significantly different from earlier data which
+indicated a {111}~ habit, t7,61 63] but those analyses were
+either of insufficient precision or were concerned with
+the apparent habit planes of sheaves.t6~ Davenport also
+demonstrated that sets of two groups of laths with a common
+growth direction but with virtually orthogonal habit
+planes tended to form in close proximity.
+There is, as yet, no detailed analysis available which
+can predict these results.
+III. CARBIDE PRECIPITATION
+A. Upper Bainite
+The carbide phase associated with upper bainite is almost
+always cementite. [21 ,2 6, 1 04, 1 34-136]* Upper bainitic ferrite
+*In steels containing high levels of silicon (--2 wt pct), transition
+carbides such as r precipitate first from austenite, but given the opportunity,
+they tend to transform into cementite, t~37~ The transition carbide
+K has a hexagonal lattice, with a = 6.9 and c = 4.8 A. Schissler
+et alY 3~1 reported a new carbide of orthorhombic lattice (a = 6.5, b =
+7.7, and c = 10.4 A), which precipitates from the residual austenite
+during the bainite reaction in an Fe-I.15C-3.9Si wt pct alloy transformed
+isothermally at 420 ~ The addition of about 1 wt pct Mn to
+the alloy changed this to another new carbide, also with an orthorhombic
+lattice, but with lattice parameters a = 14.8, b = 11.4, and
+c= 8.5A.
+does not itself contain any carbide precipitates.
+As a consequence of transformation to bainite, the
+austenite that is trapped between platelets of upper bainite
+becomes enriched in carbon. If the carbon concentration
+of the residual austenite (i.e., %) exceeds that
+given by the extrapolated 7/(T + 0) phase boundary,
+then cementite precipitation from the enriched austenite
+lying adjacent to the platelets of bainitic ferrite becomes
+thermodynamically possible, t43~ This secondary reaction,
+involving the formation of cementite, reduces the carbon
+concentration in the residual austenite and is accompanied
+by the formation of a further amount of ferrite
+(designated a). The mechanism of this secondary reaction
+is not fully established, but in view of the very small
+diffusion coefficients of iron and substitutional atoms at
+the temperatures involved and the absence of an incoherent
+interface or grain boundary to start the process, it is
+unlikely to involve reconstructive transformation.
+Sandvik L~39~ has proposed that the decomposition of the
+residual austenite involves the displacive formation of a
+triclinic carbide close to cementite in structure and the
+subsequent formation of a small amount of bainitic ferrite.
+Nakamura and Nagakura, I14~ in a study of the second
+stage of martensite tempering, suggested that
+cementite and ferrite form directly from austenite, the
+cementite nucleating on the ferrite/austenite boundaries
+and growing by rapid diffusion along this boundary, and
+the secondary ferrite growing martensitically. The sequence
+of reactions during the process can be summarized
+as follows:
+~ ~ "~- ab,SUPERSATURATED
+O~b,UNSATURATED "~ ")/ENRICHED
+"'9' O/b,UNSATURATED ~- Ol 7!- 0 [1]
+This contrasts with the cooperative growth of cementite
+and ferrite during the formation of pearlite in plain carbon
+steels:
+y~ a + 0 [21
+and with the formation of pearlite in substitutionally alloyed
+steels:
+y--~a+ 0+ y' [3]
+where y' is austenite which differs in composition when
+compared with the original austenite with respect to both
+substitutional and interstitial solute; the reaction stops
+when all the phases are homogeneous and of equilibrium
+composition before all the austenite has transformed.
+In planar sections, the cementite particles appear parallel
+to the traces of habit planes of the bainitic ferrite
+platelets. Using TEM and extraction replicas, Fisher I14u
+showed that the cementite particles in upper bainite are
+in the form of irregular ribbons in three dimensions, particularly
+when bainite forms at high temperatures. Carbide
+precipitation also occurs at austenite grain boundaries,
+and this may influence mechanical properties, especially
+778--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+toughness.[76] The precipitation of cementite from supersaturated
+austenite probably first occurs at the austenite
+grain boundaries so that those carbides can be expected
+to be relatively coarse.
+B. Lower Bainite
+Lower bainite also consists of a nonlamellar aggregate
+of ferrite and carbides. However, there are two kinds of
+carbides. Like upper bainite, precipitation of carbides from
+the enriched austenite occurs between the bainite platelets.
+In addition, there is usually a fine dispersion of
+platelike carbides (e-carbide or cementite) within the
+lenticular ferrite plates. As will become apparent, the
+mechanism of precipitation is different for the two sites.
+1. Precipitation within lower bainitic ferrite
+In contrast to the microstructure obtained after tempering
+martensite, the carbides found within any given
+bainitic ferrite plate usually occur in a single crystallographic
+orientation. When the carbide is cementite, examination
+of planar sections shows that the particles have
+their longest axes inclined at some 60 deg to the "growth
+direction" of the ferrite platelets. [65,142-144j The sharp edges
+of the ferrite platelets are reported to be free of carbides.
+The carbides within the bainitic ferrite may or may not
+touch the sides of the ferrite plates. [1291 Of course, the
+angle quoted must vary as a function of the plane of
+section; examination has shown that for lower bainitic
+ferrite that has a habit plane with approximate indices
+(0.761 0.169 0.626) 7, the cementite precipitates on (112)~
+so that the true angle between the a and cementite habit
+plane normals is approximately 57 deg. [129j Similar resuits
+have been obtained for the angle between the lower
+bainite sheaf and 0 habit plane normals.t581 In some cases,
+the carbides have been found to form on several different
+variants of the {112}4 planes, although a particular variant
+tends to dominate. [56,84'1451
+Early experiments using Curie point measurements and
+dilatometry gave indirect indications that the carbide
+precipitation associated with lower bainite is not always
+cementite. [36,146,1471 Austin and Schwartz [1351 first identified
+the presence of e-carbide in lower bainite. Since
+then, several investigators have reported the detection
+of e-carbide in association with lower bainite.
+[63'115'139'145'148-152] Matas and Hehemann [148] interpreted
+these results by suggesting that the initial carbide
+in hypoeutectoid steels is e-carbide, which is then replaced
+by cementite on holding at the isothermal transformation
+temperature. The rate at which the e-carbide
+converts to cementite increases with temperature, but also
+depends on steel composition; a high silicon concentration
+(-2 wt pct) in the steel considerably retards the reaction.
+This is consistent with the fact that silicon is known
+to retard the formation of cementite during the tempering
+of martensite. [153,154,155]
+The detection of e-carbide in lower bainite is important
+in that it implies the existence of a rather high carbon
+supersaturation in bainitic ferrite, perhaps to a level
+of the order of 0.25 wt pct. t156[ However, e-carbide is
+not always found as a precursor to the precipitation of
+cementite in lower bainite. Bhadeshia and Edmonds [841
+failed to detect e-carbide in a high-silicon medium-carbon
+steel (Fe-3.0Mn-2.02Si-0.43C wt pct) even during the
+early stages of the lower bainite transformation. The steels
+in which e-carbide has been observed during the formation
+of lower bainite are listed in Table I.*
+*e-carbide has been reported in bainite produced by continuous
+cooling transformation in an Fe-0.15C-0.94Mo-2.12Cr wt pct steel t1571
+and in an Fe-0.34C-1.25Mn-1.39Ni-0.34Mo wt pct alloy isothermally
+transformed to bainite3 m~ In both cases, the evidence quoted is rather
+indirect.
+These observations can be rationalized in terms of a
+theory of tempering due to Kalish and Cohen, [159[ who
+showed that it is energetically favorable for carbon atoms
+to remain segregated at dislocations when compared with
+their presence in the e-carbide lattice. [1291 If the dislocation
+density is high, then sufficient carbon can be tied
+up at the dislocations so that the e-carbide stage is missed
+in the precipitation sequence. In such cases, cementite
+precipitation occurs directly. Kalish and Cohen estimated
+that a dislocation density of 2 • 1012 cm -2 should
+prevent e-carbide precipitation in steels containing up to
+0.20 wt pct carbon. Judging from available data (Table I),
+and if steels containing a large amount of nickel are excluded,
+then it seems that there is sufficient carbon for
+the precipitation of a detectable amount of e-carbide if
+the average carbon content of the steel is above -0.55 wt
+pct. Otherwise, the partitioning of carbon into the residual
+austenite depletes the bainitic ferrite too rapidly to
+permit any significant precipitation of e-carbide. It is
+believed that nickel enhances the precipitation of
+e-carbide, [69[ and this is consistent with the lower carbon
+concentrations (-0.4 wt pct) at which e-carbide forms
+during the bainite transformations in these steels.
+Narashima Rao, and Thomas [16~ have demonstrated a
+similar effect of nickel in martensitic steels; they found
+e-carbides and cementite to be the dominant carbides
+during the tempering of martensite in Fe-0.27C-4Cr-5Ni
+and Fe-0.24C-2Mn-4Cr wt pct steels, respectively. The
+other substitutional elements may also have some effect
+on these phenomena, but this has not been systematically
+studied. If lower bainite containing e-carbide is tempered,
+the latter transforms to cementite and the reaction
+is accompanied by a volume contraction, which can be
+monitored accurately using dilatometry. [1511
+Finally, r/-carbide (Fe2C) has also been observed in
+lower bainitic ferrite obtained by transforming the austenite
+matrix of a high-silicon cast iron. [161,1621 This carbide
+has previously only been reported in tempered
+martensite [163,1641 and so reinforces the conclusion that the
+carbides precipitate from carbon-supersaturated lower
+bainitic ferrite. Like e-carbide, tentative results indicate
+that the overall carbon concentration of the parent austenite
+has to exceed some critical concentration before
+the r/-carbide can be readily detected in lower
+bainite. [161,162]
+2. Precipitation between lower bainitic
+ferrite platelets
+Since some of the carbon in the alloy is tied up in the
+form of carbides within the ferrite, the volume fraction
+of residual austenite trapped between bainite platelets is
+less for lower bainite, t1511 Hence, the decomposition of
+this austenite into cementite and ferrite leads to a smaller
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--779
+Table I. Compositions of Steels (Weight Percent) in Which e-Carbide Has Been Found in Lower Bainite
+C Si Mn Ni Cr Mo V References
+0.95 0.22 0.60 3.27 1.23 0.13 -- Matas and Hehemann t148]
+0.60 2.00 0.86 -- 0.31 -- -- Matas and Hehemann t148]
+1.00 0.36 -- 0.20 1.41 -- -- Matas and Hehemann [14sl
+0.58 0.35 0.78 -- 3.90 0.45 0.90 Matas and Hehemann ]1481
+1.00 2.15 0.36 . . . . Delirytl*9]
+0.60 2.00 0.86 -- 0.31 -- -- Oblak and Hehemann t63J
+0.60 2.00 . . . . . Hehemann t151
+0.41 1.59 0.79 1.85 0.75 0.43 0.08 Lai ~
+0.54 1.87 0.79 -- 0.30 -- -- Huang and Thomas o52]
+0.74 2.40 0.51 -- 0.52 -- -- Sandvik tuS]
+0.40 2.01 -- 4.15 -- -- -- Miihkinen and Edmonds [69]
+volume fraction of interplate cementite.* The precipi-
+*A consequence of this is that lower bainite often has a higher
+toughness than upper bainite, even though it usually is stronger than
+upper bainite.
+tation reactions for lower bainite can be summarized as
+follows:
+Case 1: High dislocation density
+")t ~ ")/ "~- O~b,SUPERSATURATED
+-") 01N FERRITE "~ O/b,UNSATURATED -~- TENRICHED
+-'-> OLb,UNSATURATED "~ O~ + 0BETWEEN FERR1TE PLATES
++ O~ ~ITE [4]
+Case 2: Low dislocation density
+")/----> ')t + O~b,SUPERSATURATED
+e-carbideiN FERRrrE + O/b,UNSATURATED
+-[- ]/ENRICHED
+----> O~b,UNSATURATED -t- e-carbidelN FERRITE "~ O~
+-[- 0BETWEEN FERRITE PLATES
+O/b,UNSATURATED ~- 0IN FERRITE
++ 0BETW~ FERRrrE PLATES + a [5]
+A new carbide, which, for convenience, is designated
+K-carbide, has been discovered in high-carbon steels
+transformed to lower bainite, t149aS~ It occurs as a transition
+carbide, precipitating at a late stage of the transformation,
+from the carbon-enriched residual austenite.
+Its crystal structure is discussed later (Section III-D).
+The carbide has a high solubility for Si and, on contiw
+ued holding at the isothermal transformation temperature,
+transforms to x-carbide which, in turn, eventually
+gives way to the more stable cementite. Similarly, the
+transition carbide discovered in high-silicon transformer
+steels by Konoval et al. ,t165] with an orthorhombic lattice
+(parameters a = 8.8, b --- 9.9, and c = 14.4 A), has
+been reported to precipitate from lower bainitic ferrite in
+Fe-1.15C-3.9Si wt pct alloy, t138J
+C. Kinetics of Carbide Precipitation
+1. Partitioning and distribution of carbon
+The carbon concentration of bainitic ferrite during
+transformation is of major importance in determining the
+kinetics of carbide precipitation; bainite, however, forms
+at relatively high temperatures and any excess carbon in
+the ferrite can be removed by the precipitation of carbides
+within the ferrite or by the diffusion of carbon into
+the residual austenite. The two mechanisms of carbon
+removal usually take place simultaneously, although one
+or the other may dominate, depending on temperature.
+Both events can be rapid because of the high mobility
+of carbon in iron.
+The partitioning of carbon into austenite lowers its
+chemical potential. The process was simulated experimentally
+by Matas and Hehemann, [1481 with the help of
+tempering experiments on mixtures of martensite and retained
+austenite. Single crystals of austenite (Fe-1.23Cr-
+0.60Mn-0.13Mo-3.27Ni-0.22Si-0.95C wt pct) were
+cooled below the Ms temperature (-350 K) to obtain two
+microstructures, one containing 50 pct martensite and the
+other 90 pct martensite in a matrix of austenite. The
+crystals were then tempered at 405 K to allow the carbon
+to diffuse from martensite into austenite. The tempering
+treatments caused rapid e-carbide precipitation in the
+martensite, precipitation which lowered the carbon concentration
+of martensite to 0.22 wt pct, a value approximately
+consistent with that quoted by Roberts et al. ~t56]
+for the equilibrium between martensite and e-carbide.
+Continued holding at the tempering temperature led to
+further reductions in martensite carbon concentration, the
+carbon diffusing into the residual austenite. The rejection
+of excess carbon into austenite occurred more rapidly
+for the sample containing less martensite because
+the larger amount of residual austenite provides a bigger
+sink for carbon.
+The distribution of carbon in the residual austenite is
+not, in general, homogeneous after isothermal transformation
+to bainite. The austenite is enriched to a greater
+extent in the immediate vicinity of bainite platelets or in
+regions trapped between platelets.[148,166] Carbon causes
+an expansion of the austenite lattice parameter, and, in
+some cases, two lattice parameters have been observed
+for the retained austenite, corresponding to different levels
+of carbon in the austenite within a single specimen.
+I1481 In many cases, the austenite that is relatively
+780--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+poor in carbon decomposes martensitically on cooling to
+ambient temperature. Any subsequent measurement of
+the carbon concentration of austenite (xv) using an X-ray
+method would then lead to an overestimation of xv if it
+is assumed that carbon is distributed uniformly in the
+residual austenite that existed at the isothermal transformation
+temperature. For example, for upper bainite in a
+high-silicon steel, X-ray measurements indicated that the
+carbon concentration of the austenite retained at ambient
+temperature was about 1.7 wt pct, whereas volume fraction
+measurements gave an average concentration of
+1.35 wt pct for the residual austenite which existed at
+the transformation temperature, r137]
+2. Kinetics of precipitation from residual austenite
+The incomplete reaction in silicon and some other alloy
+steels strongly suggests that the precipitation of carbides
+during the bainite reaction occurs after the formation of
+bainitic ferrite. Therefore, carbide formation can lag behind
+that of bainitic ferrite. The extent of this lag depends
+both on temperature and on alloy composition; for
+steels which transform rapidly, the lag may not be
+detectable.
+Using a chemical technique which separates precipitated
+carbon from that in solid solution together with dilatometry,
+it is possible to show that during the formation
+of bainite at high temperatures, the amount of carbide
+formed is proportional to the amount of bainitic ferrite
+at any stage of the reaction. (167] On the other hand, for
+lower transformation temperatures, the carbide precipitation
+reaction is found to lag significantly behind the
+formation of bainitic ferrite. The steel used to establish
+these results contained only small concentrations of substitutional
+solutes and it is likely that an increase in alloy
+content would, in general, lead to changes in the relative
+kinetics of all reactions.
+With lower bainite, it is necessary to distinguish between
+the carbides within the bainitic ferrite (which precipitate
+rather rapidly) and those which form by the
+decomposition of the carbon-enriched residual austenite
+which is trapped between the ferrite plates. Transmission
+electron microscopy studies on an Fe-4.08Cr-0.3C wt
+pct alloy have shown that of the two reactions which
+lead to carbide formation in lower bainite, the precipitation
+of cementite from the residual austenite is a comparatively
+slow processJ 1291 Isothermal transformation at
+435 ~ for l0 minutes (a time long enough to allow the
+formation of bainitic ferrite to reach completion) gave
+cementite within the lower bainitic ferrite, but the regions
+between the ferrite platelets remained as untransformed
+austenite. It was necessary to hold the alloy at
+the transformation temperature for a period of 30 minutes
+before cementite began to precipitate from the residual
+austenite. The slow rate of this precipitation reaction might
+indicate that, in contrast to the precipitation within ferrite,
+it is ~ reconstructive transformation. However, as
+suggested by Sandvik, [1391 both transformations might be
+displacive so far as the iron atoms are concerned, and
+the difference may be ascribable simply to the difference
+in the diffusion rates of carbon in ferrite and austenite.
+The most striking evidence that the formation of carbides
+from residual austenite lags behind the formation
+of bainitic ferrite and behind the precipitation of carbides
+within the ferrite is found in steels containing relatively
+large amounts of silicon. For example, no carbide formation
+accompanies the formation of upper bainite in
+Fe-0.31Cr-0.86Mn-2.00Si-0.60C wt pct alloy, even after
+holding at the isothermal transformation temperature for
+several hours, t]48] Similar results have been reported by
+LeHouillier et al. [1371 and by many other researchers.
+Silicon is usually present in steels as an aftermath of
+the deoxidation reactions involved in the steelmaking
+process. However, it is clear that the effect of relatively
+large deliberate additions of silicon on the upper bainite
+reaction is to retard the formation of cementite from austenite,
+thereby giving a microstructure of just bainitic
+ferrite and austenite. [84A37'149-151'168] Silicon in cast irons
+has long been known to favor the formation of gray cast
+iron, which contains large amounts of graphite instead
+of the cementite found in low-silicon white cast irons.
+The precipitation of cementite during the tempering of
+martensite is significantly retarded by the presence of
+silicon, [2,153-]55A69'17~ and the phenomenon has been used
+in the design of one of the most successful ultrahighstrength
+steels (commercial designation 300M). [~7~]
+The effect of silicon is generally reconciled with the
+fact that its solubility in cementite is very small. It intuitively
+seems reasonable that high-silicon steels consequently
+form a poor environment for the precipitation
+of cementite. The need for silicon to diffuse away from
+the cementite/ferrite interface could explain the retardation
+of its growth. [153] During the tempering of martensite
+in high-silicon steels, the retardation of cementite
+growth allows transition carbides to persist for longer
+periods. At one time, it was thought that the effect is
+really due to the stabilization of the transition carbides,
+which have a high solubility for silicon, rather than the
+retardation of cementite growth, (154,1721 but recent work
+shows that the transition carbides are not particularly enriched
+with respect to silicon, t~73]
+Aluminum in solid solution is also believed to retard
+tempering reactions. [~74,175A761 In all respects, aluminum
+seems to behave in a similar way to silicon with respect
+to both the bainite and martensite transformations,
+although detailed data, for example on its solubility in
+carbides, are not available.
+The fact that carbide precipitation from residual austenite
+lags behind that from bainitic ferrite is also established
+for steels containing little or no silicon or aluminum.
+In an Fe-0.3C-4.08Cr wt pct alloy isothermally transformed
+to lower bainite at 435 ~ for 10 minutes, the
+phase between the cementite-containing ferrite platelets
+is found to be austenite, whereas if the sample is held
+at the transformation temperature for 30 minutes, the
+austenite is replaced with cementite. (lzg] Heavily alloyed,
+low-carbon steels also show this effect: in an Fe-0.06C-
+0.27Si-l.84Mn-2.48Ni-0.2Mo wt pct alloy, no cementite
+could be detected long after the cessation of the bainite
+transformation at 460 ~ It was only after a mixture of
+bainitic ferrite and carbon-enriched austenite (obtained
+by isothermal transformation at 460 ~ was annealed at
+600 ~ for 2 hours did cementite formation eventually
+occur. [1771 A similar effect can be found in coppercontaining
+steels, where cementite formation only occurs
+after annealing the mixture of bainitic ferrite and retained
+austenite at an elevated temperature. [178]
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--781
+3. Kinetics of precipitation within bainitic ferrite
+It is particularly interesting that the precipitation of
+cementite from martensite or lower bainite can occur under
+conditions where the diffusion rates of iron and substitutional
+atoms are very small compared with the rate of
+precipitation. The long-range diffusion of carbon atoms
+is of course necessary, but, because of its interstitial
+character, substantial diffusion of carbon remains possible
+even at temperatures as low as -60 ~
+Thus, the formation of cementite in these circumstances
+must differ from the normal reconstructive decomposition
+reactions, which should become too sluggish
+at low temperatures. For this reason, it has been believed
+for some time that the cementite lattice may be generated
+by the deformation of the ferrite lattice, combined with
+the necessary diffusion of carbon into the appropriate sites.
+The ways in which the ferrite lattice could be deformed
+to produce the right arrangement of iron atoms needed
+to generate the cementite or e-carbide structures have
+been considered phenomenologically by Andrews t18~ and
+Hume-Rothery et al.,tl8U and the subject has been reviewed
+by YakelJ ~82] The models are not, however, sufficiently
+developed to predict transformation kinetics apart
+from suggesting that if the diffusion of iron is not necessary,
+the precipitation reaction may be relatively rapid.
+D. Crystallography of Carbide Precipitation
+in Bainite
+Some of the details of the crystal structures of the carbides
+found in bainite or in tempered bainite are presented
+in Table II; a comprehensive review has recently
+been published by Yakel. [ls21
+During normal isothermal transformation to bainite,
+i.e., where the steel has not been held at temperature for
+periods long enough to allow long-range substitutional
+atom diffusion, only e-carbide, 7/-carbide, or cementite
+precipitate within bainitic ferrite, and only cementite or
+K-carbide precipitate from the carbon-enriched austenite
+between the ferrite platelets. The other carbides form
+during tempering or during prolonged holding at the isothermal
+transformation temperature. Shackleton and
+Kelly [189,19~ reported that on rare occasions, M23C 6 and
+M7C 3 could be found as transformed bainite, but the heat
+treatment they used was not fully specified, and the observations
+subsequently have not been verified. The crystal
+system of MTC 3 is conventionally reported as hexagonal
+(a = 13.982, c = 4.506/~), but there is evidence that it is
+better regarded as an ordered orthorhombic structure, t~gT~
+1. Cementite: Orientation relationships
+Shackleton and Kelly [189'19~ conducted a very detailed
+and extensive study of the orientation relationships that
+exist between ferrite and carbides in bainite. The carbides
+within lower bainitic ferrite were always found to
+exhibit the orientation relationships observed for cementite
+that forms during the tempering of supersaturated
+martensite. As with martensite, the most frequently observed
+orientation relationship, also called the tempering
+or Bagaryatski ~ relationship, was found to be
+{001}0 [[ {211}~
+<1OO5o II (0il).
+The next most frequently observed a/0 orientation relationship,
+which is also consistent with the tempering
+of martensite, was found to be
+{o01}0 II {2i5}o
+(100)0 within 2.6 deg of (3il)~
+(010)0 within 2.6 deg of (131)~
+For the cementite that precipitates during the formation
+of upper bainite, Shackleton and Kelly showed that
+the large number of observed orientation relationships
+could all be rationalized if it is assumed that the cementite
+precipitates from austenite with the Pitsch ~ y-0
+relationship:
+{0Ol}0 fl {225},
+(100)0 within 2.6 deg of (3571) v
+(010)0 within 2.6 deg of (ii0)~
+The a-O relationships can be generated from the 3,-0 relationship
+by allowing the ferrite to be a variant of the
+KS a-3, orientation relation.
+These results have been confirmed subsequently I86a291
+and are important in understanding the mechanism of the
+bainite transformation; they suggest that in lower bainite,
+the carbides precipitate from ferrite which is supersaturated
+with respect to carbon, since the same O/a
+orientations are found during the tempering of martensite.
+The O/a orientation relationship found by Isaichev t192]
+has also been reported for the cementite within lower
+bainitic ferriteJ 58,1521 It is in fact quite close to the
+Bagaryatskii relationship (the two are difficult to distinguish
+experimentally), and in terms of rational indices,
+the Isaichev orientation relationship can be written
+(010501[ (1 ii)~
+{103}0 [I {101}~
+2. The habit plane of cementite
+Using single-surface trace analysis, Shackleton and
+Kelly showed that for the tempering orientation relationship,
+the habit plane of cementite in lower bainitic
+ferrite is in the vicinity of the zone containing {1i2}, and
+{0il}~ (corresponding to {101}0 and {100}o, respectively).
+The results are vague because of the irregular
+shape of the cementite particles and because of the inaccuracies
+in the technique used. The long dimension of
+the cementite laths was found to be - ( l i i ) ~ (corresponding
+to (010)0). Note that for these data, the crystallographic
+indices have justifiably been quoted with
+respect to both the a and 0 lattices, since some of the
+trace analyses were carried out using diffraction information
+obtained simultaneously from both lattices. The
+results are qualitatively consistent with the habit plane
+of cementite containing the direction of maximum coherency
+between the ferrite and cementite lattices, i.e.,
+(010)0 II (lii)o.t,80J
+For some alloys, the observation of streaks in electron
+diffraction patterns has been interpreted to indicate that
+in those cases, the habit plane of the cementite within
+lower bainitic ferrite is -{001}0 Jl {211}~ .t571 However,
+similar streaking has been observed for a case where the
+782--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+Table II. Crystal Structures of Carbides in Bainite or in Tempered Bainite
+Carbide Crystal System Fe, M/C References
+K hexagonal 1.37 Deliry t1491 and Pomey t~s~
+a = 6.9
+e hexagonal 2.4 to 3 Jack 1183,1841 and Hofer et al. t~85~
+a = 2.735
+X monoclinic 2.2 or 2.5 Hiigg tl86]
+a = 11.563
+c = 5.058
+orthorhombic
+a = 4.704
+orthorhombic
+a = 4.525
+orthorhombic
+a = 4.526
+orthorhombic
+a = 8.8 b = 9.0
+orthorhombic
+a = 6.5 b = 7.7
+orthorhombic
+a = 14.8 b = 11.4
+cubic F 23/6
+a = 10.621
+cubic F 6
+a = 11.082
+c triclinic Sandvik [1391
+a = 6.38 b = 5.05 c = 4.59
+a = 90.0deg /3 = 70.1 deg Y = 84.7deg
+*/
+Fe3C
+M7C3
+(Fe, Si)Cx
+(Fe, Si)Cx
+(Fe, Si, Mn)Cx
+M23C6
+MrC
+c = 4.8
+c = 4.339
+b = 4.573
+/3 = 97.44 deg
+b = 4.318
+b = 5.087
+b = 7.010
+2 Hirotsu and Nagakura 11631
+c = 2.830
+3.0
+c = 6.743
+7/3 Morniroli et al. 087]
+c = 12.142
+Konoval et al. [~651
+c = 14.4
+Schissler et al. t~381
+c = 10.4
+Schissler et al. t138~
+c= 8.5
+Note: The designation K is used for the new carbide discovered by Deliry 11491 and PomeyJ ~s~ X has not been reported for bainite but is found
+during the tempering of martensite so that there is a possibility that it may occur in bainite. The ratio of iron plus other metal atoms to carbon
+is designated Fe, M/C. The lattice parameters are stated in angstroms. The actual lattice parameters in any particular alloy must also depend on
+its detailed chemical composition.
+cementite habit plane is {201}0; the streaking may, therefore,
+be due to faulting on the {001}0 planes. [58~
+For upper bainite, the carbides precipitate from austenite;
+it is not, therefore, surprising that the particles do
+not exhibit a consistent set of habit plane indices with
+respect to ferrite, although those with respect to the cementite
+lattice are always found to be close to {101}0
+with a long direction close to (010)0 .[189'19~
+3. Three-phase crystallography
+Crystallographic information can be interpreted in much
+more detail if the data are obtained simultaneously from
+austenite, ferrite, and cementite. The first such experiments
+were reported by Srinivasan and Wayman, [56,571
+and subsequent (contradictory) data were given by
+Bhadeshia. [ugl The two sets of data referred to the standard
+variant of the austenite-ferrite relation defined above,
+and using rational approximations to the measurements,
+are as follows:
+References 56 and 57
+[ i l l ] v i i [011L [I [100]0
+[TO1]v II [nil II [o olo
+[121]v II [211L II [001]o
+Reference 129
+[llll~[[ [011L
+[0i11~ PI [iilL
+[ 0 i l l , II [10010
+[liiL II [01010
+[21 1],~ II [00110
+For the first set of data, ts6.571 the habit plane of the
+cementite within the lower bainitic ferrite is found to be
+(112)., corresponding to (101) v. Srinivasan and Wayman
+noted that this is one of the planes for the lattice-invariant
+deformation for lower bainite, as predicted using the
+phenomenological theory of martensite, and implied that
+this may somehow explain the presence of just one crystallographic
+variant of cementite in lower bainite, as
+compared with the many found when martensite is tempered.
+When the lattice-invariant deformation is slip, as
+is the case for bainite, it is incredibly difficult to establish
+any microstructural evidence in its support. Srinivasan
+and Wayman interpreted the presence of the carbide on
+the appropriate planes to lend support to the proposed
+mode of lattice-invariant deformation in bainite. It was
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--783
+pointed out that the results may not be general, because
+they found that for an Fe-3.32Cr-0.66C wt pct alloy, the
+cementite habit plane seemed to be {001}0, unlike the
+case for the more heavily alloyed sample.
+Unfortunately, the second set of data c~291 is not in
+agreement with the Srinivasan and Wayman hypothesis,
+and they noted themselves that the cementite habit plane
+in another Fe-Cr-C alloy containing less chromium and
+carbon was (001)0 rather than (010)0. Thus, although the
+lattice-invariant deformation may be linked to the nucleation
+of cementite under some circumstances, it does
+not provide a consistent explanation in others. It also
+does not explain why multiple variants of carbides are
+observed in martensites. Further experimental results are
+highly desirable to ascertain whether the single dominant
+variant of cementite formed in lower bainite does have
+different crystallographic relations with the ferrite in different
+alloys.
+Interphase precipitation
+An alternative view is that the cementite of lower bainite
+nucleates and grows at the austenite-ferrite interface, a
+process which is well established in the high-temperature
+precipitation of carbides and is described as "interphase
+precipitation. ,,r~93] The carbon that is necessary to sustain
+the growth of cementite can be absorbed from the adjacent
+y, and it is then not necessary for a to be supersaturated.
+It is argued that during nucleation, the cementite
+should adopt an orientation which provides good lattice
+matching with both a and y. If it happens to be the case
+that there is only one orientation in space which allows
+good matching with both the adjacent phases, then the
+theory indicates that only one crystallographic variant of
+cementite should precipitate for a given variant of ferrite.
+It seems intuitively reasonable that a particle at the
+transformation interface should attempt to lattice match
+simultaneously with both the adjacent phases. However,
+the experimental evidence quoted in support of the model
+(reviewed by Honeycombe t194j) does not seem adequate.
+For example, during the interphase precipitation of M23C 6
+in chromium-rich steels, the carbide (which has a facecentered
+cubic lattice) adopts a cube-cube orientation with
+the austenite and a KS orientation with the ferrite. However,
+M23C 6 in austenite always precipitates in a cubecube
+orientation with austenite, even in the absence of
+any ferrite. Suppose that the carbide precipitates in austenite
+and that the austenite then transforms to ferrite;
+the latter is likely to adopt a rational Kurdjumov-Sachs
+type orientation with the austenite and, consequently, with
+the M23C6, the final three-phase crystallography having
+nothing to do with simultaneous lattice matching between
+all three phases.
+During interphase precipitation, the M23C 6 could be
+completely oblivious of the ferrite, even though it may
+be in contact with the phase, but the good three-phase
+crystallography would nevertheless follow simply because
+the M23C 6 has a cube-cube orientation with the
+austenite. To test unambiguously, the theory requires a
+system where the particles that form at the interphase
+interface are able to adopt many different variants of an
+orientation relation with the austenite. It is suggested that
+interphase precipitation of MozC is an example suitable
+for further work.
+Given a Bagaryatski orientation relationship between
+lower bainitic ferrite and its internal cementite particles,
+and a KS orientation relationship between the ferrite and
+austenite, it can be shown [~291 that the three-phase crystallography
+expected on the basis of the lattice matching
+arguments is
+[10010 II [011l, II [11117
+[01010 [1 [ l i i ] . H [i01]~
+The experimental data for lower bainite [~:9] clearly do not
+agree with these orientation relations, the cementite
+"making no effort" to lattice match with the austenite.*
+*Huang and Thomas t152~ have expressed the three-phase crystallography
+of lower bainitic ferrite, the cementite within this ferrite, and
+austenite as follows:
+(100)0 II (5z~5). 5.77 deg from (101L
+(o~o)o II (loi)~ II (lli).
+The three-phase relationship is not, however, based on direct experimental
+evidence. The angle quoted above has been corrected from the
+original paper.
+This conclusion remains valid even if the a/y orientation
+relation turns out to be of the Nishiyama-Wasserman
+type.
+There is another way of verifying this conclusion.
+Aaronson et al. [195] have modeled the growth of cementire
+which nucleates at the a/y interface. In this model,
+the penetration of the cementite into the adjacent ferrite
+or austenite is determined by the rate at which either of
+these phases transform into cementite. The growth of the
+cementite is treated in terms of a one-dimensional
+diffusion-controlled growth process. With the Zener approximation
+of a linear concentration gradient in the parent
+phase, the penetration of cementite in ferrite (G~) and
+in austenite (G 0 are given by
+G, - 0.5t-~176 ~ - c~~ ~ - c ~~ (c ~ - ~)]0.5
+[6]
+G v -- 0.5t ~176 - cY~ ~ - c y~ (c oy - ()]o.5
+[7]
+where, for example, D~ is the diffusivity of carbon in
+ferrite, (is the average carbon concentration in the parent
+phase (a or y), c ~0 represents the concentration of
+carbon in the austenite which is in equilibrium with cementite,
+and t represents the time after the nucleation
+event. If it is assumed that c od or c oy are much greater
+than (, c ~~ or c ~~ the ratio of growth rates is given by
+GJGy = [O~ ~ - c~~176 ~ - c~~ [8]
+Note that the left-hand side of this equation could be
+replaced by the corresponding ratio of particle dimensions
+in the two parent phases. Aaronson et al. t1951 made
+the further assumption that the carbon concentrations of
+the austenite and ferrite before the onset of cementite
+formation are given by c ~" and c ~, respectively. This in
+turn implies a number of further assumptions which are
+not consistent with experimental data: that carbide formation
+does not begin until the formation of all bainitic
+ferrite is complete, that there is no supersaturation of
+784--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+carbon in the bainitic ferrite, and that the bainite transformation
+does not obey the incomplete-reaction
+phenomenon.
+On the basis of these assumptions, the cementite in
+bainite essentially grows by drawing on the richer reservoir
+of carbon in the austenite and should therefore
+penetrate to a far greater extent into the austenite than
+into the ferrite. Contrary to this conclusion, direct observations
+prove that in the rare cases where a cementite
+particle in lower bainite happens to be in contact with
+the transformation interface, the cementite is confined to
+the ferrite. 1t29[
+Aaronson et al. t1951 also concluded that since the model
+predicts that the interphase growth of cementite occurs
+into both bainitic ferrite and austenite, the debate about
+whether the carbides nucleate in a or ~/is irrelevant. This
+is not justified because it assumes that the carbides nucleate
+at the interphase interface, whereas it is likely that
+the carbides which precipitate within the lower bainitic
+ferrite nucleate and grow from the supersaturated bainitic
+ferrite.
+4. Relief of strain energy
+Therefore, the evidence seems to suggest that the occurrence
+of a single crystallographic variant of carbide
+in lower bainite cannot be explained in terms of either
+the interphase precipitation model or the lattice-invariant
+shear arguments. A possible alternative explanation is
+that the variant which forms is one that is best suited
+toward relieving the elastic strains associated with the
+austenite-to-lower bainite transformation. I1291 The observation
+that carbide precipitation modifies the surface
+relief of lower bainite [~96] supports this conclusion,
+particularly since freshly formed plates (apparently without
+carbide precipitation) exhibit perfect invariant-plane
+strain relief.
+5. Epsilon-carbide
+The orientation relationship between e-carbide in tempered
+martensite was deduced by Jack 1183'1841 as
+(101),~ II (lOil)~
+(2il). [I (1010)~
+which also implies that
+(101). ~ 1.37 deg from (1011)~
+[100]. - 5 deg from [1120]~
+The first reported crystallographic results for e-carbide
+in lower bainite seem to be those of Lai, [~45~ who observed
+that (100), tl (1120)~ and, therefore, concluded
+that the orientation relationship was that found in tempered
+martensite. However, although his data are consistent
+with the tempered martensite orientation
+relationship within the limits of experimental error, they
+are incomplete since a minimum of two pairs of parallel
+vectors need to be stated in order to specify the relationship
+between two crystals. A more detailed study by
+Huang and Thomas ~152] has subsequently confirmed that
+the e-carbide found in lower bainite does indeed obey
+the same orientation relationship with bainitic ferrite as
+is found during the tempering of martensite.
+The e-carbides are found to occur in the form of plates
+which are approximately 6 to 20 nm thick and 70 to
+400 nm long. t1521 The carbide/ferrite interface tends to
+be ragged, but on a more macroscopic scale, single-surface
+trace analysis suggests that the carbide particles grow
+along (100)6 directions on {100}, habit planes, f1451
+Huang and Thomas [152j concluded that the e-carbides
+precipitate at the austenite/bainitic ferrite interface, on
+the grounds that the observed orientation between the
+bainitic ferrite and e-carbide could be generated by assuming
+a KS a/y orientation and a relationship between
+e-carbide and austenite in which
+(111)~ II (0001)~
+(li0) II (1210L
+Sandvik [~15[ experimentally verified the Huang and
+Thomas relations. His e-carbide formed after 30 minutes
+at 380 ~ but took from 3 hours to 5 days at 320 ~ and
+he suggests it forms on the interface between bainite and
+small regions of austenite twins which were left untransformed
+within the bainite.
+6. Eta-carbide
+Eta-carbide is a transition Fe2C carbide of the orthorhombic
+crystal system. It is usually associated with the
+tempering of martensite, [163,~64j where the martensite/
+carbide orientation relationship is found to be as
+follows:t163[
+(110) n II {010}4
+[001]n II (100).
+The carbide has recently been found in lower bainitic
+ferrite in the austenitic matrix of a high-silicon cast
+iron, t~61,~621 where electron diffraction confirms that
+[00110 II (100). I[ (0i 1)v
+This information is consistent with the ~7-carbide/
+martensite orientation relationship stated earlier t163j and
+lends further support to the hypothesis that the carbides
+within lower bainitic ferrite precipitate in a manner analogous
+to the tempering of martensite.
+Franetovic et al. [161'1621 also deduced, by examining the
+zone axes of their diffraction patterns, that
+[01010 II (012>, II (i11)~
+However, the zone axes of the three superimposed patterns
+could be far from parallel, and this particular set
+of data is doubtful. Indeed, if the parallelisms are assumed,
+then the Nishiyama-Wasserman orientation relationship
+implied between the austenite and ferrite lattices
+does not follow. More research is needed to establish
+fully the three-phase crystallography of ,/-carbide, austenite,
+and bainitic ferrite.
+E. Chemical Composition of Bainitic Carbides
+It has long been established, using magnetic, chemical,
+and X-ray methods on extracted carbides, that the
+cementite associated with upper bainite in alloy steels
+has a substitutional solute content which is close to, or
+slightly higher than that of the steel as a whole, even
+though the cementite composition may be far from the
+equilibrium composition (e.g., Reference 26). Recent
+work is in broad agreement with the early data; Chance
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--785
+and Ridley [~97] found that for upper bainite in an Fe-0.81C-
+1.41Cr wt pct alloy, the partition coefficient, kcr, defined
+as (wt pct Cr in 0)/(wt pct Cr in o0, could not be
+distinguished from unity (Figure 2). Chance and Ridley
+suggested that the reason why segregation is found in
+pearlite but not in bainite (for the same transformation
+temperature) is that there is a fast diffusion path along
+the incoherent interface for pearlite.
+IV. THERMODYNAMICS AND KINETICS
+A. Equilibrium and Deviations from Equilibrium
+Equilibrium is said to exist in a system when it reaches
+a state in which no further change is perceptible, no matter
+how long one waits. [t98J A bainitic microstructure is,
+however, far from equilibrium. As an example, the free
+energy change accompanying the formation of bainite in
+an Fe-0.1C wt pct alloy at 540 ~ is --580 J/mol,
+whereas that accompanying the formation of an equilibrium
+mixture of allotriomorphic ferrite and austenite at
+the same temperature is -- 1050 J/mol. Consequently,
+the excess energy of bainite could, in this case, be said
+to be -470 J/mol, or -0.04 in units of RTM, where R
+is the gas constant and TM the absolute melting temperature.
+This is about an order of magnitude larger than
+the stored energy due to severe cold deformation of pure
+metals (-0.003 RTM) but is small in comparison with
+that of some highly metastable materials such as rapidly
+quenched liquids which solidify as highly supersaturated
+solutions -1 RTM or multilayered structures with an excess
+energy of -0.1 RTM .[199J
+In spite of the large deviations from equilibrium, we
+shall see that the concepts of equilibrium, metastable
+kcr
+20
+I I I
+tt
+bainite
+-t \ --+ -+-t-+-"+1"-+"
+~- I I
+5OO 600 700
+Transformation Temoerature'{i
+Fig. 2--Partitioning coefficient of chromium between cementite and
+ferrite, as a function of transformation temperatureJ ~971 For the pearlite,
+the partitioning coefficients are measured in the pearlite at the
+pearlite/austenite interface.
+equilibrium, and constrained equilibrium can nonetheless
+be useful in interpreting the mechanism and consequences
+of the bainite transformation.
+Equilibrium is said to exist between homogeneous
+phases when the chemical potential of each component
+is the same in all the phases present. It is defined by the
+equation
+/x~' =/x 7 [9]
+for i = 1, 2, 3 . . . . where /zi is the chemical potential
+of component "i." In the study of the kinetics of transformations,
+the concept of equilibrium in terms of phases
+which are homogeneous is rather restrictive. It is then
+useful to consider equilibrium to exist locally. For example,
+it is a reasonable approximation that during
+diffusion-controlled transformation, the compositions of
+the phases in contact at the interface are such as to allow
+equilibrium to exist locally even though the phases may
+not be homogeneous. As long as the phases are not too
+inhomogeneous (as is the case with some artificial multilayered
+structures or during spinodal decomposition)
+classical equilibrium thermodynamics can be applied
+locally.
+As discussed earlier, during paraequilibrium transformation,
+the ratio of iron to substitutional solute atoms
+remains the same everywhere, but subject to that constraint,
+the carbon atoms achieve equality of chemical
+potential in all phases. Either the substitutional solute
+atoms or the iron atoms are then said to be trapped by
+the advancing transformation interface, the criterion for
+trapping requiring that the chemical potential of that species
+increases on transfer across the interface.
+Transformation may also occur without any diffusion,
+but this is thermodynamically only possible below the To
+temperature, where the parent and product phases of the
+same composition have equal free energy.
+The concepts of local equilibrium, paraequilibrium,
+and diffusionless transformation are relatively easy to
+visualize and formulate and, hence, are very popular.
+However, between local and paraequilibrium, there could
+exist an infinite number of states in which the substitutional
+elements partially partition between the phases.
+Similarly, between paraequilibrium and diffusionless
+transformation there can exist an infinite number of states
+in which the degree of partitioning of carbon may be
+different from equilibrium. On the other hand, such states
+would have to be stabilized by some other rate-controlling
+factor such as interface kinetics; otherwise, they should
+tend to degenerate toward equilibrium, because any small
+perturbation in composition at the interface, which leads
+to a reduction in free energy, would tend to grow. We
+shall see that the stabilization of such nonequilibrium states
+is, at least in principle, feasible for solid-state transformations
+in steels.
+Before these concepts can be utilized in assessing the
+mechanism of the bainite reaction, it is necessary to consider
+additional terms which raise the free energy of the
+product phase. For example, the effect of including the
+stored energy terms is to change the temperature at which
+composition-invariant transformation becomes thermodynamically
+possible from To to To'.
+786--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+B. Stored Energy Due to Transformation
+Much of the stored energy of bainite comes from the
+strain energy due to the invariant-plane strain shape change
+accompanying transformation. If the shape of a platelet
+of bainite is approximated as that of an oblate ellipsoid
+of semi-axes R, R and y, with R >> y, then Christian [2~176
+has shown that the molar strain energy, Gs, which is a
+consequence of the shape change, is given by
+Gs = [tZVm/(1 -- V)] {(2/9) (1 + v)A 2 + (7ry/4R)~ 2
++ ((1 - v)Try/3R)A~}
++ 0.5/xVm[(2- v)~ry/4(1 - v)Rls 2 [10]
+where/x and v are the shear modulus and Poisson' s ratio,
+respectively, of the matrix austenite, Vm is the molar volume
+of the austenite, A is the uniform dilatation accompanying
+transformation, ~ is the additional uniaxial
+dilatation normal to the habit plane, and s is the shear
+component of the shape change. Although the A term
+has in the past been used to explain the crystallography
+of bainite, direct measurements of the shape change have
+not revealed any significant uniform dilatation. Calculations
+indicate a strain energy term due to the shape
+change is about 400 J/mol for bainite, t591 this being smaller
+than the corresponding term for martensite, which is about
+600 J/mol. t2~ The smaller value for bainite is because
+the aspect ratio (y/R) for bainite platelets is usually found
+to be considerably smaller than that for martensite. The
+shear and dilatational components of the shape change
+are, in fact, rather similar for martensite and bainite.
+There are some complications in using Eq. [10] for
+the bainite transformation. Bainite platelets do not form
+in isolation, but grow in sheaves which themselves have
+a platelike morphology on a macroscopic scale; the shear
+component of the shape change as averaged over the whole
+sheaf is much smaller than that of an individual platelet.
+[56'57'65'128] The effect of such three-dimensional formations
+of platelets on the stored energy term has not
+been investigated. Bainite forms at relatively high temperature
+s where both the austenite and ferrite have low
+yield strengths. Consequently, the strain energy due to
+the shape change can be reduced by plastic relaxation.
+The plastic deformation causes an increase in dislocation
+density, but since it is driven by the shape change, the
+strain energy calculated on the basis of an elastically accommodated
+shape change should be an upper limit. I2~
+Another complication, which should lead to a reduction
+in stored energy per unit volume as transformation proceeds,
+is that new sheaves may grow adjacent to those
+already existing in a mutually accommodating manner.
+As the transformation proceeds, carbides grow either from
+austenite or from the bainitic ferrite; these may grow in
+such a way as to anneal the transformation strains.
+In martensitic reactions, transformation twinning can
+contribute -100 J-/mol of stored energy; t2~ this term does
+not arise for bainite where the lattice-invariant shear is
+always found to be slip. Also, the contribution from the
+bainite/austenite interface is very small during the growth
+stage. [59]
+C. Thermodynamics of Growth
+Atom-probe experiments, which reveal directly the
+absence of any substitutional alloying element partitioning
+at the bainitic ferrite/austenite interface, even on the
+finest conceivable scale, prove that the growth of bainite
+in alloy steels cannot be treated in terms of local equilibrium
+or of any intermediate state between local and
+paraequilibrium. The atom probe experiments have now
+been carded out for a wide range of steels, and it is established
+that Mn, Ni, Si, Cr, and Mo do not redistribute
+during transformation. ~89-93J
+It remains to consider the role of carbon in the growth
+of bainite. This is difficult to resolve directly because if
+the bainite is supersaturated during growth, the relatively
+high temperatures at which it grows provide an opportunity
+for much of the excess carbon to diffuse rapidly
+into the residual austenite before any experimental measurements
+can be conducted. The time involved may
+typically be less than a second; t2~ of course, the time
+does increase as the temperature is reduced but the excess
+carbon can then precipitate in the form of carbides
+within the bainitic ferrite. If attempts are made to drastically
+reduce the transformation temperature by alloying,
+then bainite ceases to form, leaving martensite as
+the only displacive transformation product of austenite.[2~
+However, there are indirect methods of determining
+the carbon concentration of bainitic ferrite during growth.
+If bainitic ferrite initially has the same composition as
+the parent austenite, the transformation should in principle
+go to completion since there is no diffusion necessary.
+In practice, the whole of the austenite grain does
+not transform instantaneously because of kinetic restrictions
+(e.g., heterogeneous nucleation and the fact that
+the plates reach a limiting size); even if the first plate of
+bainite forms without any diffusion, it has an opportunity
+to reject its excess carbon into the remaining austenite
+during the progress of the reaction as a whole.
+This is a reflection of the fact that at the temperatures
+where bainite typically forms, the time required for partitioning
+is not large when compared with that for the
+reaction to terminate. Because the austenite becomes enriched
+with carbon, a stage is eventually reached when
+it is thermodynamically impossible for further bainite to
+form by diffusionless transformation. At this point, the
+composition of the austenite is given by the T'o curve of
+the phase diagram. If the alternative hypothesis is that
+paraequilibrium exists during all stages of transformation,
+then the reaction would stop when the carbon concentration
+of the austenite is given by the Ae3" curve.
+The Ae3' curve is the (a + y)/y paraequilibrium phase
+boundary, and the Ae3" curve is obtained when this is
+modified to account for the stored energy of transformation.
+The reaction is experimentally found to stop when
+the average carbon concentration of the austenite is close
+to the T'o curve rather than the Ae3" boundary. The experimental
+evidence has been reviewed by Christian and
+Edmonds I241 and is based on dilatometry, lattice imaging,
+and atom-probe techniques.
+Therefore, the reaction remains incomplete in the sense
+that there is no equilibrium between the austenite and
+ferrite and that the volume fraction of bainitic ferrite does
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--787
+not satisfy the lever rule. Note that the difference in carbon
+concentrations between the T" and Ae3" curves at
+the temperatures where bainite typically forms is very
+large, so that the experiments mentioned above are a
+sensitive indication of the failure of the transformation
+to reach paraequilibrium. This "incomplete-reaction
+phenomenon" explains immediately why the degree of
+transformation to bainite is zero at the Bs temperature
+and increases with undercooling below Bs in steels where
+other reactions do not overlap with the formation of
+bainitic ferrite; the T" curve has a negative slope on a
+temperature/carbon concentration plot, so that the austenite
+can tolerate more carbon before diffusionless
+transformation becomes possible as the temperature is
+reduced.
+The incomplete-reaction phenomenon supports the hypothesis
+that the growth of bainitic ferrite occurs without
+any diffusion, with carbon being subsequently partitioned
+into the residual austenite. There is as yet no reasonable
+alternative explanation of this phenomenon.
+Consider now the possibility that the ferrite during
+growth is only partially supersaturated with carbon. The
+driving force available for transformation can be partitioned
+into that dissipated in the diffusion of carbon ahead
+of the interface and a quantity dissipated in the transfer
+of atoms across the interface. Each of these dissipation
+terms can, with an appropriate model, be related to interface
+velocity functions, one being the diffusion velocity
+and the other a velocity determined by the mobility of
+the interface. The intersection of these functions gives
+an actual solution of the interfacial velocity. By imposing
+different levels of supersaturation in the ferrite, a
+series of solutions can be calculated as a function of
+supersaturation. Some criterion (e.g., maximum velocity)
+can then be used to select the most likely solution
+and, hence, the most likely supersaturation. In this way,
+it has been shown, I2~176 using what seems to be a realistic
+model of the interface, that growth involving partial
+supersaturation can be stable, as pointed out by
+Christian and Edmonds. Using different physical principles,
+the same conclusion has also been reached by
+Hillert.t206~
+Nonetheless, there remain numerous difficulties with
+the concept of growth with partial supersaturation in the
+context of bainite in steels. The models all predict that
+the degree of supersaturation rises with undercooling; this
+is inconsistent with the fact that the bainite reaction stops
+when the carbon concentration of the residual austenite
+approaches the To curve. At first sight, the consequence
+of increasing supersaturation with undercooling would
+be to change the terminal carbon concentration of the
+austenite from the Ae3" down to T" at full supersaturation
+as the transformation temperature is reduced. On the other
+hand, for a given transformation temperature, one might
+expect the level of supersaturation to decrease as the
+transformation progresses (since the austenite becomes
+enriched in carbon), so that the terminal carbon concentration
+may then always be given by the Ae3", irrespective
+of transformation temperature.
+A further difficulty is that at a given transformation
+temperature, it is predicted that for growth involving
+partial supersaturation, the terminal carbon concentration
+of the austenite cannot be less than a value xmv , where
+x~ is determined by the tangent to the austenite free energy
+curve, the tangent being chosen such that it intersects
+the ferrite free energy curve at the average alloy
+carbon concentration, ,,?. This is again inconsistent with
+experimental measurements, t89'9~
+It is pertinent to note that the models for growth
+involving partial supersaturation are not as yet fully developed.
+They do not, for example, take account of stored
+energy or plate aspect ratio variations as a function of
+temperature, nor do they predict the stifling of the growth
+of individual platelets of bainite.
+If partial supersaturation is not possible, then some
+explanation is needed as to why there is an abrupt transition
+from paraequilibrium growth for Widmanstiitten
+ferrite and diffusionless growth for bainite. We propose
+that an abrupt transition may be expected if, in addition
+to the requirement that diffusionless transformation is only
+permitted below To, it is also necessary to consider the
+relative kinetics of interface motion and of the partitioning
+of carbon from the supersaturated ferrite behind the
+advancing interface into the residual austenite. If the kinetics
+of the latter process are comparable to the rate at
+which the interface advances, then the diffusion fields
+of the two phenomenologically different processes must
+overlap, and growth should tend to reduce toward equilibrium
+partitioning. This is a distinct possibility at high
+temperatures (still below To) because the decarburization
+of ferrite is then very rapid, t2~ It is necessary to construct
+a model of plate growth which accounts for diffusion
+processes which begin immediately behind the
+transformation interface to consider this problem in detail.
+It provides, for the moment, a possible explanation
+for a relatively abrupt transition from paraequilibrium
+growth of Widmanstatten ferrite to the diffusionless growth
+of bainite.
+D. Thermodynamics of Nucleation
+It is an experimental fact that the rate at which the Ws
+or B~ temperature decreases as a function of alloy chemistry
+is larger than the corresponding change in the Ae3
+temperature. This problem has been investigated by
+Bhadeshia t2~ using data from TTT diagrams. Although
+there is much fine detail in such diagrams, they essentially
+consist of two C curves. The one at lower temperatures
+has a flat top and represents the formation of
+Widmanst~itten ferrite and bainite.* By analyzing the
+*In steels where the transformation kinetics are very rapid, the curves
+overlap to such an extent that the Tqq" diagram appears to contain
+just one C curve.
+driving force available at the highest temperature, Th,
+where bainite or Widmanstiitten ferrite form at a detectable
+rate as a function of alloy chemistry, it can be deduced
+that both of these transformation products nucleate
+by the same mechanism and that the formation of the
+nucleus involves the equilibrium partitioning of carbon.
+Interestingly, the driving force necessary to obtain a detectable
+rate of nucleation was found to decrease linearly
+as a function of Th. This behavior is consistent with the
+theory for martensite nucleation, in which the activation
+energy is proportional to driving force, t2~ whereas classical
+nucleation theory predicts an inx~erse square
+788--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+relationship. The implication is that the nucleation process
+for bainite and Widmanst~itten ferrite is like martensite,
+displacive in character, but, unlike martensitic
+nucleation which is diffusionless, there is equilibrium
+partitioning of carbon during the formation of the nucleus.
+Furthermore, the theory predicts, as observed experimentally,
+that a larger driving force is needed to
+achieve a given nucleation rate if the transformation temperature
+is depressed by alloying. This clearly is consistent
+with the fact that the effect of alloying in depressing
+the Bs and Ws temperatures is greater than on the Ae3
+temperature.
+If at Th the available driving force is insufficient to
+sustain the diffusionless growth of bainite, then Th = Ws.
+A further undercooling is then necessary before the Bs
+temperature is reached. On the other hand, if sufficient
+driving force is available at Th to account for both diffusionless
+transformation and the stored energy of bainite,
+then Widmanst/itten ferrite does not form in the steel
+concerned. Similarly, very heavy alloying can make both
+the Widmanst~itten ferrite and bainite reactions to be absent,
+since the temperature is then sufficiently low to
+permit directly the diffusionless nucleation and growth
+of the kinetically favored martensite. These concepts explain
+why all three transformations do not necessarily
+occur in all steels.
+E. Growth Rate
+1. Growth rate of sheaves of bainite
+Sheaves of bainite normally nucleate at austenite grain
+boundaries and propagate toward the grain interiors by
+the nucleation and growth of individual subunits. New
+subunits nucleate near the tips of previous subunits; the
+nucleation of subunits in adjacent positions occurs at a
+much lower rate. This means that the sheaf itself has on
+a macroscopic scale a platelike morphology in three dimensions.
+Since coordinated movements of atoms cannot
+in general be sustained across austenite grain
+boundaries, the growth of a given sheaf is confmed strictly
+to a single austenite grain. Bainite plates are also stopped
+by austenite twin boundaries, t4~ The grain in which
+bainite grows is the one with which it has an orientation
+within the Bain region as previously defined; this contrasts
+with the Smith TM theory of grain-boundary nucleation
+for reconstructive transformations, which states that
+the new phase will grow into the grain with which it has
+a random (incoherent boundary) orientation.
+Most direct observations of bainite growth are of limited
+resolution and refer to the growth of sheaves of
+bainite. Typical thicknesses of "plates" of bainite observed
+in such studies (e.g., Reference 65) are in the
+range of 1 to 5/xm, far greater than that of a subunit,
+as observed using TEM, which is -0.2/xm. In the discussion
+that follows, observations using light microscopy
+are interpreted as referring to sheaf growth, even
+though the original papers may not make any explicit
+distinction between sheaf and subunit.
+Several direct observations have shown that the
+lengthening of bainite sheaves occurs at a constant
+rate. [67,2~176 For a given transformation temperature, the
+measured rates are found to exhibit a significant degree
+of scatter, attributed to small variations in growth rate
+in radial directions within the habit plane of a given sheaf,
+giving rise to a noncircular habit plane. An increase in
+carbon, nickel, or chromium concentration leads to a decrease
+in the lengthening rate. From measurements of
+the thickening rates of sheaves, Speich and Cohen t2~
+concluded that the aspect ratio (thickness/length) was independent
+of sheaf size, the thickening rate being proportional
+to the lengthening rate, and similar results have
+been reported by Hawkins and Barford. t671 This does not
+imply that the thickening and lengthening processes for
+sheaves are coupled, because thickening was found to
+continue at the same rate, even when lengthening
+stopped.*
+*These I67,2~ and other observations have originally been interpreted
+to refer to the growth of individual bainite plates rather than
+sheaves. Speich considered that the thickening process involves the
+planar motion of the broad face of the plate at a rate controlled by
+the diffusion of carbon in the austenite, and the observed constant
+thickening rate was then explained by the periodic precipitation of
+carbides such that the effective diffusion distance for carbon remained
+approximately constant. The observations really refer to sheaf growth,
+the rate of thickening depending perhaps on the nucleation of other
+adjacent subunits.
+The ratio of the thickening to lengthening rate (when
+these are independent of time) determines the aspect ratio
+of a sheaf whose growth has not been limited by impingement
+with obstacles such as grain boundaries. The
+activation energy, Q, of a growth process may be defined
+as 12~
+Q = -R[d(ln {G})/d(1/T)] [1 1]
+This phenomenological relation makes no specific assumptions
+about the temperature dependence of growth
+rate, so that the activation energy, Q, cannot be physically
+interpreted without further justification. The activation
+energy for lengthening is found to be smaller than
+that for thickening, so that the aspect ratio of a sheaf is
+expected to decrease with temperature, as confirmed experimentally.
+There is, however, no satisfactory theoretical
+treatment of the kinetics of sheaf thickening, and
+it is also not established that the rate of thickening is
+constant, as claimed by Speich and Cohen t2~ and
+Speich. t651 Goodenow and Hehemann t2~~ found that the
+thickening rate decreases with increasing thickness.
+A recent critical assessment of the data for the lengthening
+of plates of Widmans~tten ferrite and sheaves of
+bainite in plain carbon steels demonstrates that for bainite,
+the measured sheaf growth rates are much higher
+than would be indicated by carbon diffusion-controlled
+growth. ~2~
+2. Growth rate of individual subunits of bainite
+The lengthening rate of individual subunits of bainite
+is undoubtedly far less than the speed of sound in the
+metal (martensite growth velocity is often limited by this).
+While the shape change accompanying transformation
+indicates that the bainite/austenite interface is glissile,
+the rate at which the interface moves is relatively slow,
+especially if it is accepted that the growth is diffusionless.
+Goodenow and Hehemann t2~~ suggested that the slow
+growth of bainite is associated with the damping of interface
+dislocation motion at the high temperatures at which
+bainite forms. There may also be a dissipation of energy
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--789
+associated with the movement of carbon atoms in compliance
+with the interface stress field.
+The growth rate of individual subunits of bainite has
+been measured for an Fe-Mn-Si-C alloy using hot-stage
+photoemission electron microscopy, and it is found that
+the subunits lengthen at rates which are orders of magnitude
+faster than would be expected from carbon
+diffusion-controlled growth. [2121
+3. Partitioning of carbon from supersaturated
+bainitic ferrite
+If bainitic ferrite grows with a nonequilibrium concentration
+of carbon, then, given the opportunity, the
+carbon should tend to partition into the residual austenite
+where it has a lower chemical potential.*
+*The tendency for excess carbon to redistribute into the residual
+austenite should also exist for martensitic transformations in steels.
+However, these transformations occur at a relatively low temperature,
+where the time taken to redistribute the carbon is large compared with
+the time taken to transform most of the austenite. Consequently, the
+redistribution process does not hinder the progress of martensitic
+transformation.
+The time, td, required to decarburize the supersaturated
+ferrite is intuitively expected at least to be comparable
+to that required for a subunit to complete its
+growth. If td is small compared with the kinetics of carbide
+precipitation from ferrite, then the transformation
+would be classified as upper rather than lower bainite.
+Kinsman and Aaronson t2131 considered the kinetics of
+the partitioning of carbon from bainitic ferrite of the same
+composition as the parent phase. For a plate thickness
+w, it is reasonably assumed that the flux of carbon is
+one-dimensional along a coordinate z normal to the
+a/7 interface, with origin at the interface and z being
+positive in the austenite. A more recent version of the
+calculation t2~ begins with the conservation condition:
+(0"5w)(s [X~{Z, td}--Y,]dz [12]
+where ta is the time taken for the ferrite composition to
+become uniform at its paraequilibrium value, Y is the
+average mole fraction of carbon in the alloy, and x ~r and
+x r" are the paraequilibrium carbon concentrations in a
+and y, respectively.* Since the diffusion rate of carbon
+*These equilibrium concentrations should strictly allow for the stored
+energy of bainitic ferrite.
+in austenite is slower than in ferrite, the rate of decarburization
+will be determined by the diffusivity in the
+austenite, and the concentration of carbon in austenite at
+the interface remains constant for times 0 < t < td, after
+which it steadily decreases as the austenite becomes homogeneous
+in composition. The function xv is given by
+x~ = .~ + (x TM - ~?) erfc {z/2(Dtd) ~ } [13]
+Kinsman and Aaronson evaluated the concentrationdependent
+diffusivity, D{x}, of carbon in austenite at
+x = x ~, but it should be a better approximation to take
+it to be a weighted average diffusivity,/). On integrating
+Eq. [13], we get
+t ~ = w(Y- x~)Tr~176 ~ - ~) [14]
+Note also that by substituting different levels of starting
+carbon concentrations in the ferrite, the time dependence
+of the average ferrite concentration can also be determined.
+Kinsman and Aaronson's original estimate was
+td = 3 ms at 540 ~ for platelets with a delay time between
+successive nucleation events of about 10 seconds.
+The variation of td with temperature is shown in Figure 3.
+V. REVERSE TRANSFORMATION
+FROM BAINITE TO AUSTENITE
+There has been little work reported on the mechanism
+or kinetics of the reverse transformation of bainite into
+austenite, probably because for wrought steels, there is
+no industrial demand for a knowledge of this process.
+As a consequence of research on the modeling of microstructures
+in multirun weld deposits, where the successive
+deposition of hot layers of weld metal causes some
+of the underlying metal to reaustenitize, there is now
+considerable interest in a quantitative description of the
+kinetics of reaustenitization from bainite.
+Reaustenitization from Austenite and Upper
+Bainitic Ferrite
+When an iron-carbon alloy is heated to a temperature
+within the a + y phase field until equilibrium is established
+between allotriomorphic ferrite and austenite, a
+small rise or fall in temperature leads to the growth or
+dissolution, respectively, of the austenite until the volume
+fractions once again satisfy the lever rule. [2141 The
+transformation of austenite into allotriomorphic ferrite
+Fe- n-2Si-O. 3C wt %
+20
+I/I
+.b
+3O0
+transformation femperalure T.
+Fig. 3--Diagram illustrating how the time required to decarburize a
+plate of bainite in an Fe-0.43C-3Mn-2Si wt pct alloy varies with
+temperature.
+790--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+is, in this sense, reversible, and exhibits little or no hysteresis.
+On the other hand, for martensite in steels, there
+is a large difference between the Ms and the austenitestart
+temperature (As) recorded during heating. This is
+because the martensite tempers (or autotempers) and because
+its formation does some work in the form of irreversible
+plastic deformation.
+If carbides precipitate from the austenite during the
+bainite reaction, then a considerable hysteresis is expected
+during reverse transformation which would require
+the renucleation of austenite. On the other hand,
+a large hysteresis effect is not expected if reverse transformation
+begins from an equilibrium mixture of just
+bainitic ferrite and austenite. Of course, if the bainite
+forms by diffusionless transformation and the excess carbon
+is rejected into the residual austenite subsequent to
+transformation, then the reaction would cease before an
+equilibrium mixture of ferrite and austenite is reached,
+so that an increase in temperature would not lead to an
+immediate reversal of transformation.
+The problem can be studied best in steels which transform
+to bainite without any precipitation of carbides. In
+these circumstances, the microstructure obtained by isothermal
+transformation below Bs is a mixture of bainitic
+ferrite and carbon-enriched residual austenite. To study
+the reverse transformation, the mixture can be heated to
+an isothermal reaustenitization temperature, so that the
+nucleation of austenite is unnecessary. Experiments like
+these have shown that the reaustenitization occurs by a
+diffusional process and have established clearly that there
+is indeed a large difference between the Bs and As temperatures.
+This is in spite of the fact that the starting
+microstructure exists in a metastable a + y phase field.
+Furthermore, the As temperature is found to correspond
+approximately to the Ae3 temperature of the residual
+austenite. The degree of reaustenitization increases from
+zero at the As temperature to 100 pct at the austenitefinish,
+or A/, temperature, which is the Ae3 temperature
+of the alloy as a whole. If bainite was simply the product
+of equilibrium or paraequilibrium transformation, then,
+like allotriomorphic ferrite, a rise in temperature above
+the isothermal transformation temperature should lead to
+a reversal of reaction with little hysteresis.
+The observed reaustenitization behavior can be understood
+as follows. [177,2151 In steels where carbide precipitation
+from austenite is relatively sluggish, the formation
+of bainite ceases prematurely during isothermal transformation
+at a temperature To. The stage at which reaction
+stops is when the carbon content of the residual
+austenite reaches the To' curve of the phase diagram
+(Figure 4). It follows that the carbon concentration, x~,
+of the austenite when the formation of acicular ferrite
+ceases at T~ is given by
+t x v Xr;{Ti} [15]
+as indicated by the point "a" in Figure 4. Furthermore,
+we note that
+x' z, ~ XAe3{T~} [ 161
+where XAe3{Ti} is marked "b" in Figure 4.
+Thus, although the formation of bainite ceases at Ti,
+because the carbon content of austenite is far less than
+800
+d
+700 i c ~ 600
+~ 500 ia b
+/.00
+, , ,
+o.o o.o o.o o.o, o.o o.,o o.,,
+MOLE FRACTION OF CARBON
+Fig. 4--Phase diagram showing the Ae3, Ae3', and T" curves for an
+Fe-0.27Si-l.84Mn-2.48Ni-0.20Mo wt pct alloy.
+the equilibrium concentration (i.e., x' v ~ xae3{Ti}), the net
+free energy change for further formation of ferrite by a
+mechanism which includes carbon diffusion is still
+negative.
+This remains the case until the temperature, T, is high
+enough (i.e., T = As) to satisfy the equation
+Xry = Xae3{As} [171
+Hence, reaustenitization will first occur at a temperature
+As, as indicated by the point "c" in Figure 4, and
+as observed experimentally. This is a consequence of the
+mechanism of the bainite reaction, which does not allow
+the transformation to reach completion. If this were not
+the case, then the lever rule demands that the temperature
+need only be raised infinitesimally above Ti in order
+for the reverse a ~ y transformation to be thermodynamically
+possible.
+The theory predicts that at any temperature Tv greater
+than As, the ab ~ y transformation should cease as soon
+as the residual austenite carbon concentration (initially
+x'r) reaches the Ae3 curve, i.e., when
+Xy : XAe3{Ty } [18]
+The equilibrium volume fraction of austenite at the temperature
+T v is then given by
+Vv{Tr} = -~/XAe3{Ty } [19]
+assuming that the carbon concentration of ferrite is negligible
+and that XAe3{Zy } > .,~. When XAe3{Zy } = .~, the
+alloy eventually becomes fully austenitic (point "d" in
+Figure 4), and if this condition is satisfied at Tv = Ay,
+then, for all T v > A/, the alloy transforms completely to
+austenite.
+This model explains why the degree of ab ~ y transformation
+increases from approximately zero at As (the
+Ae3 temperature of the residual austenite) to 100 pct at
+A/(the Ae3 temperature of the alloy as a whole). The
+behavior is a direct reflection of the fact that the composition
+of the residual austenite after the bainite reaction
+has ceased is far below equilibrium. This in turn
+provides further support for the incomplete reaction phenomenon
+and its implication that the growth of bainite
+occurs without any diffusion. Finally, it should be noted
+that the model discussed above assumes that the carbon
+concentrations of both phases are uniform at all stages.
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--791
+VI. ACICULAR FERRITE
+"Acicular ferrite" (aa) is a phase most commonly observed
+in the transformation of austenite during cooling
+of low-alloy steel weld deposits (see, for example, the
+recent reviews by Grong and Matlock 12161 and Abson and
+Pargeter. 12171) It is of considerable commercial importance
+because it provides a relatively tough and strong
+microstructure. It forms in a temperature range where
+reconstructive transformations become relatively sluggish.
+The term acicular means shaped and pointed like a
+needle, but it is generally recognized that aa has in three
+dimensions the morphology of~ thin, lenticular plates
+(Figure 5). The true aspect ratio of such plates has never
+been measured, but in random planar sections, the plates
+are typically about 10/~m long and -1/~m wide, so
+that the true aspect ratio is likely to be much smaller
+than 0.1.
+In fusion welding processes involving steels, the use
+of strong deoxidizing elements such as silicon, aluminum,
+and titanium, together with protective slag-forming
+compounds, causes the entrapment of complex multiphase
+nonmetallic inclusions in the solid at the advancing
+&ferrite/liquid interface. The inclusions may be oxides
+or other compounds but they can, under some circumstances,
+influence the subsequent development of microstructure
+during cooling of the weld deposit. Acicular
+ferrite plates, during the early stages of transformation,
+nucleate on inclusions present in the large columnar austenite
+grains which are typical of weld deposits. 12181 Subsequent
+plates may nucleate autocatalytically, so that a
+one-to-one correspondence between the number of active
+inclusions and the number of a~ plates is not
+expected. [2191
+The shape change accompanying the formation of a~
+has been characterized qualitatively as an invariant-plane
+strain; other measurements imply that the stored energy
+of acicular ferrite is -400 J/mol. 1177'220,2211 Consistent with
+the observed surface relief effect, microanalysis experiments
+indicate that there is no bulk partitioning of substitutional
+alloying elements during the formation of
+acicular ferrite, c22~ However, work of a higher spatial
+Fig. 5--A transmission electron micrograph illustrating the morphology
+of acicular ferrite in a steel weld deposit.
+and chemical resolution is needed to verity the absence
+of local effects near the transformation interface.
+Plates of a~ have never been found to cross austenite
+grain boundaries, and the orientation relationship between
+aa and the y grain in which it grows is always in
+the Bain regionY 22~
+The acicular ferrite transformation obeys the incompletereaction
+phenomenon, the degree of reaction tending to
+zero as the transformation temperature rises toward the
+B+ temperature; at a given temperature, the transformation
+stops as xr reaches the To' curve. The evidence all
+indicates that the growth of acicular ferrite is diffusionless,
+with carbon partitioning into austenite after the
+transformation event.
+The experimental data to date indicate that acicular
+ferrite is essentially identical to bainite. Its detailed morphology
+differs from that of conventional bainite because
+the former nucleates intragranularly at inclusions
+within large y grains, whereas in wrought steels which
+are relatively free of nonmetallic inclusions, bainite nucleates
+initially at Y/Y grain surfaces and continues growth
+by the repeated formation of subunits'to generate the
+classical sheaf morphology. Acicular ferrite does not
+normally grow in sheaves because the development of
+sheaves is stifled by hard impingement between plates
+nucleated independently at adjacent sites. Indeed, conventional
+bainite or acicular ferrite can be obtained under
+identical isothermal transformation conditions in the same
+(inclusion-rich) steel; in the former case, the austenite
+grain size has to be small in order that nucleation from
+grain surfaces dominates and subsequent growth then
+swamps the interiors of the y grains. For a larger y grain
+size, intragranular nucleation on inclusions dominates,
+so that a~ is obtained. Hence, the reason why a~ is not
+usually obtained in wrought steels is because they are
+relatively free of inclusions and because most commercial
+heat treatments aim at a small austenite grain size.
+Acicular ferrite is sometimes considered to be intragranularly
+nucleated Widmanstatten ferrite 12~91 on the basis
+of the observation of "steps" at the transformation interface,
+which are taken to imply a ledge growth mechanism.
+This kind of evidence is, however, tenuous in the
+sense that a step mechanism is a mechanism for interface
+motion and carries no implication about the mechanism
+of transformation. Furthermore, the observations themselves
+are weak in the sense that perturbations of various
+kinds can always be seen on transformation interfaces
+between ferrite and austenite. Such perturbations do not,
+however, necessarily imply a step mechanism of growth.
+Evidence that the residual austenite is enriched in carbon
+is also quoted in support of the contention that a~ is
+Widmanst~itten ferrite, 1219J but, as pointed out above, the
+enrichment can occur during or after the transformation
+event.
+Referring again to the nucleation of acicular ferrite, it
+is established theoretically 12191 that inclusions are less effective
+in nucleating ferrite when compared with austenite
+grain surfaces, and experiments confirm this since
+ferrite formation first begins at the austenite grain
+boundaries. However, because of the complexity of the
+inclusions and the difficulty in conducting controlled experiments
+with welds, the nucleation potency of inclusions
+is not clearly understood. A popular idea is that
+792--VOLUME 21A, APRIL 1990 METALLURGICAL TRANSACTIONS A
+those inclusions which show the best "lattice matching"
+with ferrite are most effective in nucleating the ferrite,
+and it has even been suggested I2~2~ that there may exist
+reproducible orientation relationships between inclusions
+and the ferrite plates that they nucleate. Experiments,
+however, demonstrate the absence of a reproducible
+ferrite/inclusion orientation relationship. ~2~3~ The fact that
+the inclusions, which form in the liquid steel, are randomly
+oriented in space, and that the orientation
+relationship of acicular ferrite with the parent austenite
+is always found to be of the KS/NW type, necessarily
+implies that the inclusion/ferrite orientation relation also
+has to be random. Other ways in which inclusions may
+assist the formation of acicular ferrite include stimulation
+by thermal strains and chemical heterogeneities in
+the vicinity of the inclusion/matrix interface; also, the
+inclusions may simply act as inert 'sites for heterogeneous
+nucleation, t~4] Chemical reactions are also possible
+at the inclusion/matrix interface, t2~
+VII. CONCLUSIONS
+A. Key Characteristics of Transformations in Steels
+The table below t2~ indicates the key characteristics of
+phase transformations in steels; it may be regarded as a
+working hypothesis which seems most consistent with
+the available experimental data. The nomenclature used
+for the transformation products is as follows: martensite
+(~'), lower bainite (~tb), upper bainite (suD, acicular ferrite
+(o~a), Widmanstatten ferrite (O~w), allotriomorphic ferrite
+(~), idiomorphic ferrite (ai), pearlite (P), and
+substitutional alloying elements (X). Consistency of a
+comment with the transformation concerned is indicated
+by (=) and inconsistency by (#); cases where the comment
+is only sometimes consistent with the transformation
+are indicated by (| The term parent 3~ implies the
+3, grain in which the product phase grows. Note that it
+is not justified to distinguish massive ferrite from a.
+B. Notes
+Nucleation and growth reactions are of first order in
+the Ehrenfest classification; in all such reactions, the parent
+and product phases can coexist and are separated by welldefined
+interfaces. Martensitic transformations, because
+they can be very rapid in steels, are sometimes incorrectly
+stated not to involve a nucleation and growth
+process.
+It is significant that all of the ferrite crystals which
+grow in the form of plates have an invariant-plane shape
+change with an appreciable shear component accompanying
+transformation. Pearlitic ferrite does not have a
+plate morphology, since, within an apparently lamellar
+colony, the ferrite regions are all interconnected in space.
+Reconstructive diffusion is the flow of matter necessary
+during reconstructive transformation in order to ensure
+the absence of the sort of shape deformations which
+accompany the formation of martensite. A reconstructive
+transformation may be regarded as a combination of
+a lattice change and a recrystallization of the product
+phase, reconstructive diffusion being the flow necessary
+for the recrystallization process.
+In diffusionless transformations, it is possible to specify
+(in a localized region at least) how particular vectors,
+planes, and unit cells of one structure (defined by an
+Comment a r Ollb Olub Ol a Ol w Ol Ol i P
+Nucleation and growth reaction . . . .
+Plate morphology . . . .
+IPS shape change with shear component . . . .
+Diffusionless nucleation = # #
+Only carbon diffuses during nucleation # = = =
+Reconstructive diffusion during nucleation # # #
+Often nucleates intragranularly on defects = # # =
+Diffusionless growth . . . .
+Reconstructive diffusion during growth # # #
+Atomic correspondence (all atoms) during growth . . . .
+Atomic correspondence, during growth,
+for atoms in substitutional sites = = =
+Bulk redistribution of X atoms during growth # # #
+Local equilibrium at interface during growth # # #
+Local paraequilibrium at interface during growth # #
+Diffusion of carbon during transformation # # #
+Carbon diffusion-controlled growth # # #
+Cooperative growth of ferrite and cementite # # #
+High dislocation density = = =
+Incomplete-reaction phenomenon # = =
+Necessarily has a glissile interface = = =
+Always has an orientation within the Bain region = = =
+Grows across austenite grain boundaries # # #
+High interface mobility at low temperatures = = =
+Displacive transformation mechanism = = =
+Reconstructive transformation mechanism # # #
+#
+#
+#
+#
+#
+#
+z
+z
+#
+z
+#
+= # #
+= # #
+= # #
+# =
+= # #
+# | | |
+# | | |
+= | |
+= | | |
+# # =
+| # # #
+= # ~ #
+= # #
+= # # :#
+METALLURGICAL TRANSACTIONS A VOLUME 21A, APRIL 1990--793
+imaginary labeling of the individual atoms) are derived
+from corresponding vectors, planes, and unit cells of the
+other structure. This is termed a lattice correspondence
+and it defines a pure lattice deformation which carries
+the original lattice points, or some fraction of these points,
+into points of the new lattice. When interstitial atoms are
+present, they may move over large distances during
+transformation without affecting the lattice correspondence;
+this is sometimes loosely expressed by stating that
+there is an atomic correspondence for the solvent and
+substitutional solute atoms but not for the interstitial atoms.
+A further relaxation of the condition is to allow the solvent
+and substitutional solute atoms to be displaced during
+transformation among the sites specified by the lattice
+correspondence, but not to create new sites or to destroy
+any specified sites; in this way the lattice correspondence
+is preserved but there is no longer an atomic correspondence.
+Note that in the classification presented above,
+the single atomic jumps of interstitial atoms needed
+to destroy Zener ordering (which is produced automatically
+by the Bain correspondence) are not taken into
+account.
+Even though two crystals may have an identical bulk
+composition, it may not be concluded that their com-
+_positions at the transformation interface are identical.
+There are modes of transformation (e.g., negligible partitioning
+local equilibrium) where the bulk compositions
+are predicted to be identical, but, in the vicinity of the
+transformation interface, the two phases differ in
+composition.
+For plain carbon steels, there is no difference between
+equilibrium and paraequilibrium.
+The incomplete-reaction phenomenon implies that
+when a reaction can be studied in isolation, it stops before
+the phases reach their equilibrium or paraequilibrium
+compositions when stored energy terms have been accounted
+for.
+An orientation within the Bain region means a reproducible
+relation which may be irrational but is close to
+the rational NW or KS relation.
+Massive ferrite is not classified as a separate morphology
+since it can be included within allotriomorphic
+or idiomorphic ferrite.
